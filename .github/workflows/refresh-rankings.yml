@@ -1,0 +1,42 @@
+name: refresh-rankings
+
+on:
+  schedule:
+    # 每小时第 17 分钟（避开整点高峰；GitHub Actions 定时可能有几分钟延迟）。
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: refresh-rankings
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Refresh rankings.json
+        run: node tools/refresh-rankings.mjs
+      - name: Commit and publish if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "rankings-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add rankings.json
+          if git diff --cached --quiet; then
+            echo "榜单数据无变化，本次不提交也不发布。"
+            exit 0
+          fi
+          git commit -m "chore: refresh rankings data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+          # GITHUB_TOKEN 的推送不会自动触发 Pages 构建，必须显式请求一次。
+          # 该仓库 Pages 为 legacy 分支部署（master /），构建内容即本次提交。
+          gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds" --field source='{"branch":"master","path":"/"}'
