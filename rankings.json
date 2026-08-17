@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-17T17:46:50.409Z",
+  "fetchedAt": "2026-08-17T19:00:31.074Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -556,7 +556,7 @@
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
-      "score": 1102,
+      "score": 1103,
       "releaseDate": "2026-03-18",
       "priceInput": null,
       "priceOutput": null,
