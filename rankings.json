@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-17T13:55:13.922Z",
+  "fetchedAt": "2026-08-17T16:48:52.694Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -230,7 +230,7 @@
       "variant": "Reve 2.1",
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1324,
+      "score": 1323,
       "releaseDate": "2026-07-09",
       "priceInput": null,
       "priceOutput": null,
@@ -242,7 +242,7 @@
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1322,
+      "score": 1321,
       "releaseDate": "2026-02-26",
       "priceInput": null,
       "priceOutput": null,
@@ -254,7 +254,7 @@
       "variant": "GPT Image 1.5 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1312,
+      "score": 1311,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -346,18 +346,6 @@
     },
     {
       "rank": 12,
-      "name": "FLUX.2 [max]",
-      "variant": "FLUX.2 [max]",
-      "creator": "Black Forest Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1231,
-      "releaseDate": "2025-12-16",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 70
-    },
-    {
-      "rank": 13,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
@@ -369,12 +357,24 @@
       "priceValue": 19.968
     },
     {
+      "rank": 13,
+      "name": "FLUX.2 [max]",
+      "variant": "FLUX.2 [max]",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
+      "score": 1229,
+      "releaseDate": "2025-12-16",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 70
+    },
+    {
       "rank": 14,
       "name": "HiDream-O1-Image-1.5",
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1227,
+      "score": 1226,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
@@ -394,18 +394,6 @@
     },
     {
       "rank": 16,
-      "name": "Luma UNI 1 Max",
-      "variant": "Luma UNI 1 Max",
-      "creator": "Luma Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/lumalabs_small.svg",
-      "score": 1223,
-      "releaseDate": "2026-05-05",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 100
-    },
-    {
-      "rank": 17,
       "name": "FLUX.2 [flex]",
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
@@ -415,6 +403,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 60
+    },
+    {
+      "rank": 17,
+      "name": "Luma UNI 1 Max",
+      "variant": "Luma UNI 1 Max",
+      "creator": "Luma Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/lumalabs_small.svg",
+      "score": 1222,
+      "releaseDate": "2026-05-05",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 100
     },
     {
       "rank": 18,
