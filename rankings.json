@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-17T20:46:26.249Z",
+  "fetchedAt": "2026-08-17T23:40:47.109Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -298,6 +298,18 @@
     },
     {
       "rank": 8,
+      "name": "Qwen-Image-3.0-Pro",
+      "variant": "Qwen-Image-3.0-Pro",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1285,
+      "releaseDate": "2026-07-21",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 43
+    },
+    {
+      "rank": 9,
       "name": "Seedream 5.0 Pro",
       "variant": "Seedream 5.0 Pro",
       "creator": "Bytedance",
@@ -309,7 +321,7 @@
       "priceValue": 90
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Riverflow 2.0",
       "variant": "Riverflow 2.0",
       "creator": "Sourceful",
@@ -321,7 +333,19 @@
       "priceValue": 150
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "name": "Qwen-Image-3.0",
+      "variant": "Qwen-Image-3.0",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1271,
+      "releaseDate": "2026-07-21",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 30
+    },
+    {
+      "rank": 12,
       "name": "grok-imagine-image-quality",
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
@@ -333,7 +357,7 @@
       "priceValue": 50
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
@@ -345,7 +369,7 @@
       "priceValue": 75
     },
     {
-      "rank": 12,
+      "rank": 14,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
@@ -357,19 +381,19 @@
       "priceValue": 19.968
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "FLUX.2 [max]",
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1227,
+      "score": 1228,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 70
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "HiDream-O1-Image-1.5",
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
@@ -381,7 +405,7 @@
       "priceValue": 80
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -393,7 +417,7 @@
       "priceValue": 30
     },
     {
-      "rank": 16,
+      "rank": 18,
       "name": "Luma UNI 1 Max",
       "variant": "Luma UNI 1 Max",
       "creator": "Luma Labs",
@@ -405,7 +429,7 @@
       "priceValue": 100
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "FLUX.2 [flex]",
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
@@ -417,7 +441,7 @@
       "priceValue": 60
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Krea 2 Medium Turbo",
       "variant": "Krea 2 Medium Turbo",
       "creator": "Krea",
@@ -427,30 +451,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 15
-    },
-    {
-      "rank": 19,
-      "name": "Krea 2 Large",
-      "variant": "Krea 2 Large",
-      "creator": "Krea",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/krea_small.svg",
-      "score": 1220,
-      "releaseDate": "2026-05-26",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 60
-    },
-    {
-      "rank": 20,
-      "name": "grok-imagine-image",
-      "variant": "grok-imagine-image",
-      "creator": "SpaceXAI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1218,
-      "releaseDate": "2026-01-28",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 20
     }
   ],
   "video": [
@@ -556,7 +556,7 @@
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
-      "score": 1103,
+      "score": 1102,
       "releaseDate": "2026-03-18",
       "priceInput": null,
       "priceOutput": null,
