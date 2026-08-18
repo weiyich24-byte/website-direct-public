@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T14:54:45.484Z",
+  "fetchedAt": "2026-08-18T15:48:59.783Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -664,7 +664,7 @@
       "variant": "grok-imagine-video",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1062,
+      "score": 1063,
       "releaseDate": "2026-01-27",
       "priceInput": null,
       "priceOutput": null,
