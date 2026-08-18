@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T05:47:42.954Z",
+  "fetchedAt": "2026-08-18T07:07:52.150Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -230,7 +230,7 @@
       "variant": "Reve 2.1",
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1323,
+      "score": 1322,
       "releaseDate": "2026-07-09",
       "priceInput": null,
       "priceOutput": null,
@@ -242,7 +242,7 @@
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1321,
+      "score": 1320,
       "releaseDate": "2026-02-26",
       "priceInput": null,
       "priceOutput": null,
@@ -386,7 +386,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1227,
+      "score": 1226,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -442,15 +442,15 @@
     },
     {
       "rank": 20,
-      "name": "Krea 2 Medium Turbo",
-      "variant": "Krea 2 Medium Turbo",
+      "name": "Krea 2 Large",
+      "variant": "Krea 2 Large",
       "creator": "Krea",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/krea_small.svg",
-      "score": 1221,
-      "releaseDate": "2026-06-03",
+      "score": 1219,
+      "releaseDate": "2026-05-26",
       "priceInput": null,
       "priceOutput": null,
-      "priceValue": 15
+      "priceValue": 60
     }
   ],
   "video": [
