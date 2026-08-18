@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T08:55:20.653Z",
+  "fetchedAt": "2026-08-18T09:51:16.640Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -326,7 +326,7 @@
       "variant": "Riverflow 2.0",
       "creator": "Sourceful",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sourceful_small.svg",
-      "score": 1275,
+      "score": 1276,
       "releaseDate": "2026-02-02",
       "priceInput": null,
       "priceOutput": null,
@@ -338,7 +338,7 @@
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1271,
+      "score": 1270,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
