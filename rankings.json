@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T07:07:52.150Z",
+  "fetchedAt": "2026-08-18T08:55:20.653Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -374,7 +374,7 @@
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1229,
+      "score": 1228,
       "releaseDate": "2026-06-02",
       "priceInput": null,
       "priceOutput": null,
@@ -496,7 +496,7 @@
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1157,
+      "score": 1158,
       "releaseDate": "2026-06-12",
       "priceInput": null,
       "priceOutput": null,
@@ -676,7 +676,7 @@
       "variant": "Vidu Q3 Turbo",
       "creator": "Vidu",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/vidu_small.svg",
-      "score": 1031,
+      "score": 1032,
       "releaseDate": "2026-02-09",
       "priceInput": null,
       "priceOutput": null,
