@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T04:54:56.093Z",
+  "fetchedAt": "2026-08-18T05:47:42.954Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -386,7 +386,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1226,
+      "score": 1227,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
