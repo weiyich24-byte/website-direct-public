@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T13:11:11.362Z",
+  "fetchedAt": "2026-08-18T13:58:52.974Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -230,7 +230,7 @@
       "variant": "Reve 2.1",
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1321,
+      "score": 1322,
       "releaseDate": "2026-07-09",
       "priceInput": null,
       "priceOutput": null,
@@ -338,7 +338,7 @@
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1270,
+      "score": 1271,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
@@ -350,7 +350,7 @@
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1234,
+      "score": 1235,
       "releaseDate": "2026-04-03",
       "priceInput": null,
       "priceOutput": null,
@@ -370,6 +370,18 @@
     },
     {
       "rank": 14,
+      "name": "FLUX.2 [max]",
+      "variant": "FLUX.2 [max]",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
+      "score": 1228,
+      "releaseDate": "2025-12-16",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 70
+    },
+    {
+      "rank": 15,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
@@ -379,18 +391,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 19.968
-    },
-    {
-      "rank": 15,
-      "name": "FLUX.2 [max]",
-      "variant": "FLUX.2 [max]",
-      "creator": "Black Forest Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1227,
-      "releaseDate": "2025-12-16",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 70
     },
     {
       "rank": 16,
