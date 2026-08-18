@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T13:58:52.974Z",
+  "fetchedAt": "2026-08-18T14:54:45.484Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1368,
+      "score": 1369,
       "releaseDate": "2026-04-21",
       "priceInput": null,
       "priceOutput": null,
@@ -242,7 +242,7 @@
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1320,
+      "score": 1321,
       "releaseDate": "2026-02-26",
       "priceInput": null,
       "priceOutput": null,
@@ -398,7 +398,7 @@
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1225,
+      "score": 1226,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
