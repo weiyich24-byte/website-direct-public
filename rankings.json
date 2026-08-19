@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-19T05:48:40.261Z",
+  "fetchedAt": "2026-08-19T07:08:12.603Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -446,7 +446,7 @@
       "variant": "Krea 2 Large",
       "creator": "Krea",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/krea_small.svg",
-      "score": 1219,
+      "score": 1220,
       "releaseDate": "2026-05-26",
       "priceInput": null,
       "priceOutput": null,
