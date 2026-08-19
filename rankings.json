@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-19T03:12:44.704Z",
+  "fetchedAt": "2026-08-19T04:02:29.814Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -370,18 +370,6 @@
     },
     {
       "rank": 14,
-      "name": "MAI-Image-2.5-Flash",
-      "variant": "MAI-Image-2.5-Flash",
-      "creator": "Microsoft AI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1227,
-      "releaseDate": "2026-06-02",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 19.968
-    },
-    {
-      "rank": 15,
       "name": "FLUX.2 [max]",
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
@@ -391,6 +379,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 70
+    },
+    {
+      "rank": 15,
+      "name": "MAI-Image-2.5-Flash",
+      "variant": "MAI-Image-2.5-Flash",
+      "creator": "Microsoft AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
+      "score": 1227,
+      "releaseDate": "2026-06-02",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 19.968
     },
     {
       "rank": 16,
@@ -446,7 +446,7 @@
       "variant": "Krea 2 Large",
       "creator": "Krea",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/krea_small.svg",
-      "score": 1219,
+      "score": 1220,
       "releaseDate": "2026-05-26",
       "priceInput": null,
       "priceOutput": null,
