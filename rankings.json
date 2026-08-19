@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-19T15:48:38.239Z",
+  "fetchedAt": "2026-08-19T17:43:47.489Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -254,7 +254,7 @@
       "variant": "GPT Image 1.5 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1311,
+      "score": 1310,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -286,18 +286,30 @@
     },
     {
       "rank": 7,
+      "name": "MAI-Image-2.5-Pro",
+      "variant": "MAI-Image-2.5-Pro",
+      "creator": "Microsoft AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
+      "score": 1292,
+      "releaseDate": "2026-07-23",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 108.544
+    },
+    {
+      "rank": 8,
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1291,
+      "score": 1290,
       "releaseDate": "2026-06-30",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 33.6
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Qwen-Image-3.0-Pro",
       "variant": "Qwen-Image-3.0-Pro",
       "creator": "Alibaba",
@@ -309,7 +321,7 @@
       "priceValue": 43
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Seedream 5.0 Pro",
       "variant": "Seedream 5.0 Pro",
       "creator": "Bytedance",
@@ -321,7 +333,7 @@
       "priceValue": 90
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Riverflow 2.0",
       "variant": "Riverflow 2.0",
       "creator": "Sourceful",
@@ -333,7 +345,7 @@
       "priceValue": 150
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Qwen-Image-3.0",
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
@@ -345,19 +357,19 @@
       "priceValue": 30
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "grok-imagine-image-quality",
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1235,
+      "score": 1234,
       "releaseDate": "2026-04-03",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 50
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
@@ -369,7 +381,7 @@
       "priceValue": 75
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
@@ -381,7 +393,7 @@
       "priceValue": 19.968
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "FLUX.2 [max]",
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
@@ -393,7 +405,7 @@
       "priceValue": 70
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -405,49 +417,37 @@
       "priceValue": 30
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "HiDream-O1-Image-1.5",
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1225,
+      "score": 1224,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 80
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Luma UNI 1 Max",
       "variant": "Luma UNI 1 Max",
       "creator": "Luma Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/lumalabs_small.svg",
-      "score": 1222,
+      "score": 1221,
       "releaseDate": "2026-05-05",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 100
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "FLUX.2 [flex]",
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
       "score": 1221,
       "releaseDate": "2025-11-25",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 60
-    },
-    {
-      "rank": 20,
-      "name": "Krea 2 Large",
-      "variant": "Krea 2 Large",
-      "creator": "Krea",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/krea_small.svg",
-      "score": 1220,
-      "releaseDate": "2026-05-26",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 60
