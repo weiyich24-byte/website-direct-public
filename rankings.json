@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-19T07:56:24.977Z",
+  "fetchedAt": "2026-08-19T08:57:08.460Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -242,7 +242,7 @@
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1320,
+      "score": 1319,
       "releaseDate": "2026-02-26",
       "priceInput": null,
       "priceOutput": null,
@@ -362,7 +362,7 @@
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1233,
+      "score": 1234,
       "releaseDate": "2026-04-22",
       "priceInput": null,
       "priceOutput": null,
@@ -386,7 +386,7 @@
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1227,
+      "score": 1226,
       "releaseDate": "2026-06-02",
       "priceInput": null,
       "priceOutput": null,
@@ -456,6 +456,18 @@
   "video": [
     {
       "rank": 1,
+      "name": "Wan 3.0",
+      "variant": "Wan 3.0",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1249,
+      "releaseDate": "2026-08-19",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": null
+    },
+    {
+      "rank": 2,
       "name": "Gemini Omni Flash",
       "variant": "Gemini Omni Flash",
       "creator": "Google",
@@ -467,7 +479,7 @@
       "priceValue": 6
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "MiniMax H3",
       "variant": "MiniMax H3",
       "creator": "MiniMax",
@@ -479,7 +491,7 @@
       "priceValue": 7.8
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Dreamina Seedance 2.0 720p",
       "variant": "Dreamina Seedance 2.0 720p",
       "creator": "ByteDance Seed",
@@ -491,7 +503,7 @@
       "priceValue": 9.07
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Wan2.7-260612",
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
@@ -503,7 +515,7 @@
       "priceValue": 9
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "HappyHorse-1.1",
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
@@ -515,7 +527,7 @@
       "priceValue": 9.9
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "HappyHorse-1.0",
       "variant": "HappyHorse-1.0",
       "creator": "Alibaba-ATH",
@@ -527,7 +539,7 @@
       "priceValue": 13.2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Wan 2.7",
       "variant": "Wan 2.7",
       "creator": "Alibaba",
@@ -539,7 +551,7 @@
       "priceValue": 9
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Kling 3.0 1080p (Pro)",
       "variant": "Kling 3.0 1080p (Pro)",
       "creator": "KlingAI",
@@ -551,7 +563,7 @@
       "priceValue": 20.16
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "SkyReels V4",
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
@@ -563,7 +575,7 @@
       "priceValue": 21
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Kling 3.0 720p (Standard)",
       "variant": "Kling 3.0 720p (Standard)",
       "creator": "KlingAI",
@@ -575,7 +587,7 @@
       "priceValue": 15.12
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Veo 3.1",
       "variant": "Veo 3.1",
       "creator": "Google",
@@ -587,7 +599,7 @@
       "priceValue": 24
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Veo 3.1 Fast",
       "variant": "Veo 3.1 Fast",
       "creator": "Google",
@@ -599,7 +611,7 @@
       "priceValue": 9
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Kling 3.0 Omni 720p (Standard)",
       "variant": "Kling 3.0 Omni 720p (Standard)",
       "creator": "KlingAI",
@@ -611,7 +623,7 @@
       "priceValue": 13.44
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
@@ -623,7 +635,7 @@
       "priceValue": 16.8
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Veo 3.1 Lite",
       "variant": "Veo 3.1 Lite",
       "creator": "Google",
@@ -635,7 +647,7 @@
       "priceValue": 4.8
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Vidu Q3 Pro",
       "variant": "Vidu Q3 Pro",
       "creator": "Vidu",
@@ -647,7 +659,7 @@
       "priceValue": 9.6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "PixVerse V6",
       "variant": "PixVerse V6",
       "creator": "PixVerse",
@@ -659,7 +671,7 @@
       "priceValue": 6.9
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "grok-imagine-video",
       "variant": "grok-imagine-video",
       "creator": "SpaceXAI",
@@ -671,7 +683,7 @@
       "priceValue": 4.2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Vidu Q3 Turbo",
       "variant": "Vidu Q3 Turbo",
       "creator": "Vidu",
@@ -681,18 +693,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 3.9
-    },
-    {
-      "rank": 20,
-      "name": "Wan 2.6",
-      "variant": "Wan 2.6",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1025,
-      "releaseDate": "2025-12-16",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 9
     }
   ]
 }
