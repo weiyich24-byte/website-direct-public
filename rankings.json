@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-19T07:08:12.603Z",
+  "fetchedAt": "2026-08-19T07:56:24.977Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -386,7 +386,7 @@
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1226,
+      "score": 1227,
       "releaseDate": "2026-06-02",
       "priceInput": null,
       "priceOutput": null,
@@ -418,18 +418,6 @@
     },
     {
       "rank": 18,
-      "name": "Luma UNI 1 Max",
-      "variant": "Luma UNI 1 Max",
-      "creator": "Luma Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/lumalabs_small.svg",
-      "score": 1221,
-      "releaseDate": "2026-05-05",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 100
-    },
-    {
-      "rank": 19,
       "name": "FLUX.2 [flex]",
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
@@ -439,6 +427,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 60
+    },
+    {
+      "rank": 19,
+      "name": "Luma UNI 1 Max",
+      "variant": "Luma UNI 1 Max",
+      "creator": "Luma Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/lumalabs_small.svg",
+      "score": 1221,
+      "releaseDate": "2026-05-05",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 100
     },
     {
       "rank": 20,
@@ -472,7 +472,7 @@
       "variant": "MiniMax H3",
       "creator": "MiniMax",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/minimax_small.svg",
-      "score": 1237,
+      "score": 1236,
       "releaseDate": "2026-07-30",
       "priceInput": null,
       "priceOutput": null,
