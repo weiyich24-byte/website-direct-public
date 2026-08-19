@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-18T23:40:05.702Z",
+  "fetchedAt": "2026-08-19T01:55:22.926Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -350,7 +350,7 @@
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1235,
+      "score": 1234,
       "releaseDate": "2026-04-03",
       "priceInput": null,
       "priceOutput": null,
@@ -370,18 +370,6 @@
     },
     {
       "rank": 14,
-      "name": "FLUX.2 [max]",
-      "variant": "FLUX.2 [max]",
-      "creator": "Black Forest Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1227,
-      "releaseDate": "2025-12-16",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 70
-    },
-    {
-      "rank": 15,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
@@ -393,12 +381,24 @@
       "priceValue": 19.968
     },
     {
+      "rank": 15,
+      "name": "FLUX.2 [max]",
+      "variant": "FLUX.2 [max]",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
+      "score": 1227,
+      "releaseDate": "2025-12-16",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 70
+    },
+    {
       "rank": 16,
       "name": "HiDream-O1-Image-1.5",
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1225,
+      "score": 1224,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
@@ -520,7 +520,7 @@
       "variant": "HappyHorse-1.0",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1120,
+      "score": 1121,
       "releaseDate": "2026-04-07",
       "priceInput": null,
       "priceOutput": null,
