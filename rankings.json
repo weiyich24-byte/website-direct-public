@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-20T15:51:06.229Z",
+  "fetchedAt": "2026-08-20T16:53:49.921Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1365,
+      "score": 1366,
       "releaseDate": "2026-04-21",
       "priceInput": null,
       "priceOutput": null,
@@ -230,7 +230,7 @@
       "variant": "Reve 2.1",
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1319,
+      "score": 1320,
       "releaseDate": "2026-07-09",
       "priceInput": null,
       "priceOutput": null,
@@ -290,7 +290,7 @@
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1291,
+      "score": 1292,
       "releaseDate": "2026-07-23",
       "priceInput": null,
       "priceOutput": null,
@@ -394,18 +394,6 @@
     },
     {
       "rank": 16,
-      "name": "FLUX.2 [max]",
-      "variant": "FLUX.2 [max]",
-      "creator": "Black Forest Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1224,
-      "releaseDate": "2025-12-16",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 70
-    },
-    {
-      "rank": 17,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -415,6 +403,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
+    },
+    {
+      "rank": 17,
+      "name": "FLUX.2 [max]",
+      "variant": "FLUX.2 [max]",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
+      "score": 1224,
+      "releaseDate": "2025-12-16",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 70
     },
     {
       "rank": 18,
@@ -434,7 +434,7 @@
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1219,
+      "score": 1220,
       "releaseDate": "2025-11-25",
       "priceInput": null,
       "priceOutput": null,
