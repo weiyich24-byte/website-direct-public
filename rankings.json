@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-20T01:54:27.494Z",
+  "fetchedAt": "2026-08-20T03:12:09.557Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -290,7 +290,7 @@
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1293,
+      "score": 1292,
       "releaseDate": "2026-07-23",
       "priceInput": null,
       "priceOutput": null,
@@ -398,7 +398,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1226,
+      "score": 1225,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -410,7 +410,7 @@
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1225,
+      "score": 1224,
       "releaseDate": "2025-09-08",
       "priceInput": null,
       "priceOutput": null,
