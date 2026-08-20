@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-20T11:45:50.090Z",
+  "fetchedAt": "2026-08-20T13:14:06.830Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -278,7 +278,7 @@
       "variant": "Nano Banana Pro (Gemini 3 Pro Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1296,
+      "score": 1295,
       "releaseDate": "2025-11-20",
       "priceInput": null,
       "priceOutput": null,
@@ -422,7 +422,7 @@
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1224,
+      "score": 1223,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
