@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-20T08:58:21.812Z",
+  "fetchedAt": "2026-08-20T11:45:50.090Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -350,7 +350,7 @@
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1271,
+      "score": 1272,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
@@ -358,18 +358,6 @@
     },
     {
       "rank": 13,
-      "name": "grok-imagine-image-quality",
-      "variant": "grok-imagine-image-quality",
-      "creator": "SpaceXAI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1233,
-      "releaseDate": "2026-04-03",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 50
-    },
-    {
-      "rank": 14,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
@@ -379,6 +367,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 75
+    },
+    {
+      "rank": 14,
+      "name": "grok-imagine-image-quality",
+      "variant": "grok-imagine-image-quality",
+      "creator": "SpaceXAI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
+      "score": 1233,
+      "releaseDate": "2026-04-03",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 50
     },
     {
       "rank": 15,
@@ -422,7 +422,7 @@
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1223,
+      "score": 1224,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
