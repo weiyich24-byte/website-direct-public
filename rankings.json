@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-20T13:14:06.830Z",
+  "fetchedAt": "2026-08-20T14:57:47.269Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -254,7 +254,7 @@
       "variant": "GPT Image 1.5 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1309,
+      "score": 1308,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -422,7 +422,7 @@
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1223,
+      "score": 1224,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
