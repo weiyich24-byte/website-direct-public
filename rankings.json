@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-21T14:56:02.868Z",
+  "fetchedAt": "2026-08-21T16:54:17.199Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -422,7 +422,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1225,
+      "score": 1224,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -676,7 +676,7 @@
       "variant": "LTX-2.5 Fast",
       "creator": "Lightricks",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
-      "score": 1063,
+      "score": 1062,
       "releaseDate": "2026-08-11",
       "priceInput": null,
       "priceOutput": null,
