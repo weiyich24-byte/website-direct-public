@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-21T08:00:03.248Z",
+  "fetchedAt": "2026-08-21T09:00:48.769Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1369,
+      "score": 1368,
       "releaseDate": "2026-04-21",
       "priceInput": null,
       "priceOutput": null,
@@ -362,7 +362,7 @@
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1237,
+      "score": 1236,
       "releaseDate": "2026-04-22",
       "priceInput": null,
       "priceOutput": null,
@@ -446,7 +446,7 @@
       "variant": "Krea 2 Large",
       "creator": "Krea",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/krea_small.svg",
-      "score": 1220,
+      "score": 1219,
       "releaseDate": "2026-05-26",
       "priceInput": null,
       "priceOutput": null,
