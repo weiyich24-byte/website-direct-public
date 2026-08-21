@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-21T14:01:24.519Z",
+  "fetchedAt": "2026-08-21T14:56:02.868Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -314,7 +314,7 @@
       "variant": "Qwen-Image-3.0-Pro",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1283,
+      "score": 1282,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
@@ -624,18 +624,6 @@
     },
     {
       "rank": 15,
-      "name": "Veo 3.1 Fast",
-      "variant": "Veo 3.1 Fast",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1087,
-      "releaseDate": "2026-01-30",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 9
-    },
-    {
-      "rank": 16,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
@@ -645,6 +633,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 16.8
+    },
+    {
+      "rank": 16,
+      "name": "Veo 3.1 Fast",
+      "variant": "Veo 3.1 Fast",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
+      "score": 1087,
+      "releaseDate": "2026-01-30",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 9
     },
     {
       "rank": 17,
