@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-21T16:54:17.199Z",
+  "fetchedAt": "2026-08-21T17:48:20.964Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -173,7 +173,7 @@
     {
       "rank": 17,
       "name": "Qwen3.8 27B",
-      "variant": "Qwen3.8 27B",
+      "variant": "Qwen3.8 27B (xhigh)",
       "creator": "Alibaba",
       "score": 52,
       "releaseDate": "2026-08-14",
