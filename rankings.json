@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-21T22:44:42.610Z",
+  "fetchedAt": "2026-08-22T01:52:50.774Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -254,7 +254,7 @@
       "variant": "GPT Image 1.5 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1309,
+      "score": 1310,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -386,7 +386,7 @@
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1228,
+      "score": 1229,
       "releaseDate": "2026-06-02",
       "priceInput": null,
       "priceOutput": null,
