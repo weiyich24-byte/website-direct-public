@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-22T03:09:37.084Z",
+  "fetchedAt": "2026-08-22T04:52:42.583Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -362,7 +362,7 @@
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1237,
+      "score": 1236,
       "releaseDate": "2026-04-22",
       "priceInput": null,
       "priceOutput": null,
@@ -422,7 +422,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1225,
+      "score": 1224,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
