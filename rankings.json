@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-22T09:45:21.182Z",
+  "fetchedAt": "2026-08-22T10:43:10.253Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -652,7 +652,7 @@
       "variant": "Vidu Q3 Pro",
       "creator": "Vidu",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/vidu_small.svg",
-      "score": 1076,
+      "score": 1075,
       "releaseDate": "2026-01-30",
       "priceInput": null,
       "priceOutput": null,
