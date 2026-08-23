@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-23T11:39:30.636Z",
+  "fetchedAt": "2026-08-23T13:47:37.295Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -302,7 +302,7 @@
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1288,
+      "score": 1289,
       "releaseDate": "2026-06-30",
       "priceInput": null,
       "priceOutput": null,
@@ -314,7 +314,7 @@
       "variant": "Qwen-Image-3.0-Pro",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1281,
+      "score": 1282,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
@@ -398,7 +398,7 @@
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1227,
+      "score": 1228,
       "releaseDate": "2026-06-04",
       "priceInput": null,
       "priceOutput": null,
