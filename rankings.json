@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-23T13:47:37.295Z",
+  "fetchedAt": "2026-08-23T23:38:17.838Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -278,7 +278,7 @@
       "variant": "Nano Banana Pro (Gemini 3 Pro Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1297,
+      "score": 1298,
       "releaseDate": "2025-11-20",
       "priceInput": null,
       "priceOutput": null,
@@ -302,7 +302,7 @@
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1289,
+      "score": 1288,
       "releaseDate": "2026-06-30",
       "priceInput": null,
       "priceOutput": null,
@@ -410,7 +410,7 @@
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1226,
+      "score": 1225,
       "releaseDate": "2025-09-08",
       "priceInput": null,
       "priceOutput": null,
@@ -600,18 +600,6 @@
     },
     {
       "rank": 13,
-      "name": "Veo 3.1",
-      "variant": "Veo 3.1",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1089,
-      "releaseDate": "2026-01-30",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 24
-    },
-    {
-      "rank": 14,
       "name": "Kling 3.0 Omni 720p (Standard)",
       "variant": "Kling 3.0 Omni 720p (Standard)",
       "creator": "KlingAI",
@@ -621,6 +609,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 13.44
+    },
+    {
+      "rank": 14,
+      "name": "Veo 3.1",
+      "variant": "Veo 3.1",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
+      "score": 1089,
+      "releaseDate": "2026-01-30",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 24
     },
     {
       "rank": 15,
@@ -652,7 +652,7 @@
       "variant": "Vidu Q3 Pro",
       "creator": "Vidu",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/vidu_small.svg",
-      "score": 1075,
+      "score": 1076,
       "releaseDate": "2026-01-30",
       "priceInput": null,
       "priceOutput": null,
@@ -664,7 +664,7 @@
       "variant": "PixVerse V6",
       "creator": "PixVerse",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/pixverse_small.svg",
-      "score": 1072,
+      "score": 1073,
       "releaseDate": "2026-03-23",
       "priceInput": null,
       "priceOutput": null,
@@ -672,18 +672,6 @@
     },
     {
       "rank": 19,
-      "name": "LTX-2.5 Pro",
-      "variant": "LTX-2.5 Pro",
-      "creator": "Lightricks",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
-      "score": 1063,
-      "releaseDate": "2026-08-11",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 10.2
-    },
-    {
-      "rank": 20,
       "name": "LTX-2.5 Fast",
       "variant": "LTX-2.5 Fast",
       "creator": "Lightricks",
@@ -693,6 +681,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 7.8
+    },
+    {
+      "rank": 20,
+      "name": "LTX-2.5 Pro",
+      "variant": "LTX-2.5 Pro",
+      "creator": "Lightricks",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
+      "score": 1063,
+      "releaseDate": "2026-08-11",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 10.2
     }
   ]
 }
