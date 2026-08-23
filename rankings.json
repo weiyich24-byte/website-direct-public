@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-22T19:39:09.068Z",
+  "fetchedAt": "2026-08-23T09:45:42.962Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -230,7 +230,7 @@
       "variant": "Reve 2.1",
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1321,
+      "score": 1322,
       "releaseDate": "2026-07-09",
       "priceInput": null,
       "priceOutput": null,
@@ -302,7 +302,7 @@
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1289,
+      "score": 1288,
       "releaseDate": "2026-06-30",
       "priceInput": null,
       "priceOutput": null,
@@ -350,7 +350,7 @@
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1271,
+      "score": 1272,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
@@ -422,7 +422,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1224,
+      "score": 1225,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -434,7 +434,7 @@
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1221,
+      "score": 1223,
       "releaseDate": "2025-11-25",
       "priceInput": null,
       "priceOutput": null,
@@ -508,7 +508,7 @@
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1157,
+      "score": 1156,
       "releaseDate": "2026-06-12",
       "priceInput": null,
       "priceOutput": null,
@@ -520,7 +520,7 @@
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1146,
+      "score": 1145,
       "releaseDate": "2026-06-22",
       "priceInput": null,
       "priceOutput": null,
@@ -664,7 +664,7 @@
       "variant": "PixVerse V6",
       "creator": "PixVerse",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/pixverse_small.svg",
-      "score": 1073,
+      "score": 1072,
       "releaseDate": "2026-03-23",
       "priceInput": null,
       "priceOutput": null,
@@ -672,18 +672,6 @@
     },
     {
       "rank": 19,
-      "name": "LTX-2.5 Fast",
-      "variant": "LTX-2.5 Fast",
-      "creator": "Lightricks",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
-      "score": 1063,
-      "releaseDate": "2026-08-11",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 7.8
-    },
-    {
-      "rank": 20,
       "name": "LTX-2.5 Pro",
       "variant": "LTX-2.5 Pro",
       "creator": "Lightricks",
@@ -693,6 +681,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 10.2
+    },
+    {
+      "rank": 20,
+      "name": "LTX-2.5 Fast",
+      "variant": "LTX-2.5 Fast",
+      "creator": "Lightricks",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
+      "score": 1063,
+      "releaseDate": "2026-08-11",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 7.8
     }
   ]
 }
