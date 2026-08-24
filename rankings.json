@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-24T10:56:03.876Z",
+  "fetchedAt": "2026-08-24T13:16:32.103Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1370,
+      "score": 1369,
       "releaseDate": "2026-04-21",
       "priceInput": null,
       "priceOutput": null,
@@ -230,7 +230,7 @@
       "variant": "Reve 2.1",
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1322,
+      "score": 1321,
       "releaseDate": "2026-07-09",
       "priceInput": null,
       "priceOutput": null,
@@ -410,7 +410,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1226,
+      "score": 1225,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -460,7 +460,7 @@
       "variant": "Wan 3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1244,
+      "score": 1242,
       "releaseDate": "2026-08-19",
       "priceInput": null,
       "priceOutput": null,
@@ -472,7 +472,7 @@
       "variant": "Gemini Omni Flash",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1238,
+      "score": 1237,
       "releaseDate": "2026-05-19",
       "priceInput": null,
       "priceOutput": null,
@@ -484,7 +484,7 @@
       "variant": "MiniMax H3",
       "creator": "MiniMax",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/minimax_small.svg",
-      "score": 1227,
+      "score": 1226,
       "releaseDate": "2026-07-30",
       "priceInput": null,
       "priceOutput": null,
@@ -496,7 +496,7 @@
       "variant": "Dreamina Seedance 2.0 720p",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1221,
+      "score": 1220,
       "releaseDate": "2026-03-18",
       "priceInput": null,
       "priceOutput": null,
@@ -532,7 +532,7 @@
       "variant": "HappyHorse-1.0",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1121,
+      "score": 1119,
       "releaseDate": "2026-04-07",
       "priceInput": null,
       "priceOutput": null,
@@ -540,18 +540,6 @@
     },
     {
       "rank": 8,
-      "name": "Wan 2.7",
-      "variant": "Wan 2.7",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1107,
-      "releaseDate": "2026-04-25",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 9
-    },
-    {
-      "rank": 9,
       "name": "Kling 3.0 1080p (Pro)",
       "variant": "Kling 3.0 1080p (Pro)",
       "creator": "KlingAI",
@@ -563,12 +551,24 @@
       "priceValue": 20.16
     },
     {
+      "rank": 9,
+      "name": "Wan 2.7",
+      "variant": "Wan 2.7",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1105,
+      "releaseDate": "2026-04-25",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 9
+    },
+    {
       "rank": 10,
       "name": "SkyReels V4",
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
-      "score": 1101,
+      "score": 1100,
       "releaseDate": "2026-03-18",
       "priceInput": null,
       "priceOutput": null,
@@ -580,7 +580,7 @@
       "variant": "Kling 3.0 720p (Standard)",
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1099,
+      "score": 1098,
       "releaseDate": "2026-02-04",
       "priceInput": null,
       "priceOutput": null,
@@ -588,18 +588,6 @@
     },
     {
       "rank": 12,
-      "name": "Veo 3.1 Lite",
-      "variant": "Veo 3.1 Lite",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1090,
-      "releaseDate": "2026-03-31",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 4.8
-    },
-    {
-      "rank": 13,
       "name": "Veo 3.1",
       "variant": "Veo 3.1",
       "creator": "Google",
@@ -611,7 +599,7 @@
       "priceValue": 24
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Kling 3.0 Omni 720p (Standard)",
       "variant": "Kling 3.0 Omni 720p (Standard)",
       "creator": "KlingAI",
@@ -621,6 +609,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 13.44
+    },
+    {
+      "rank": 14,
+      "name": "Veo 3.1 Lite",
+      "variant": "Veo 3.1 Lite",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
+      "score": 1088,
+      "releaseDate": "2026-03-31",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 4.8
     },
     {
       "rank": 15,
@@ -640,7 +640,7 @@
       "variant": "Veo 3.1 Fast",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1087,
+      "score": 1085,
       "releaseDate": "2026-01-30",
       "priceInput": null,
       "priceOutput": null,
@@ -664,7 +664,7 @@
       "variant": "PixVerse V6",
       "creator": "PixVerse",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/pixverse_small.svg",
-      "score": 1073,
+      "score": 1072,
       "releaseDate": "2026-03-23",
       "priceInput": null,
       "priceOutput": null,
@@ -672,18 +672,6 @@
     },
     {
       "rank": 19,
-      "name": "LTX-2.5 Fast",
-      "variant": "LTX-2.5 Fast",
-      "creator": "Lightricks",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
-      "score": 1063,
-      "releaseDate": "2026-08-11",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 7.8
-    },
-    {
-      "rank": 20,
       "name": "grok-imagine-video",
       "variant": "grok-imagine-video",
       "creator": "SpaceXAI",
@@ -693,6 +681,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 4.2
+    },
+    {
+      "rank": 20,
+      "name": "LTX-2.5 Fast",
+      "variant": "LTX-2.5 Fast",
+      "creator": "Lightricks",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
+      "score": 1061,
+      "releaseDate": "2026-08-11",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 7.8
     }
   ]
 }
