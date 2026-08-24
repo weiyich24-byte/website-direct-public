@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-24T05:56:03.010Z",
+  "fetchedAt": "2026-08-24T09:07:12.660Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -410,7 +410,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1225,
+      "score": 1226,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -446,7 +446,7 @@
       "variant": "Ideogram 4.0",
       "creator": "Ideogram",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/ideogram_small.svg",
-      "score": 1219,
+      "score": 1220,
       "releaseDate": "2026-06-03",
       "priceInput": null,
       "priceOutput": null,
