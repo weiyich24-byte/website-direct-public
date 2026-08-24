@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-24T19:03:04.743Z",
+  "fetchedAt": "2026-08-24T22:46:52.224Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -202,13 +202,13 @@
     },
     {
       "rank": 20,
-      "name": "Gemini 3.1 Pro Preview",
-      "variant": "Gemini 3.1 Pro Preview",
-      "creator": "Google",
-      "score": 47.7,
-      "releaseDate": "2026-02-19",
-      "priceInput": 2,
-      "priceOutput": 12
+      "name": "DeepSeek V4 Flash Vision",
+      "variant": "DeepSeek V4 Flash Vision (max)",
+      "creator": "DeepSeek",
+      "score": 51.5,
+      "releaseDate": "2026-08-21",
+      "priceInput": 0.44,
+      "priceOutput": 1.32
     }
   ],
   "image": [
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1369,
+      "score": 1370,
       "releaseDate": "2026-04-21",
       "priceInput": null,
       "priceOutput": null,
@@ -362,7 +362,7 @@
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1237,
+      "score": 1238,
       "releaseDate": "2026-04-22",
       "priceInput": null,
       "priceOutput": null,
@@ -374,7 +374,7 @@
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1234,
+      "score": 1235,
       "releaseDate": "2026-04-03",
       "priceInput": null,
       "priceOutput": null,
@@ -386,7 +386,7 @@
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1228,
+      "score": 1229,
       "releaseDate": "2026-06-02",
       "priceInput": null,
       "priceOutput": null,
@@ -406,18 +406,6 @@
     },
     {
       "rank": 17,
-      "name": "FLUX.2 [max]",
-      "variant": "FLUX.2 [max]",
-      "creator": "Black Forest Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1225,
-      "releaseDate": "2025-12-16",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 70
-    },
-    {
-      "rank": 18,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -427,6 +415,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
+    },
+    {
+      "rank": 18,
+      "name": "FLUX.2 [max]",
+      "variant": "FLUX.2 [max]",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
+      "score": 1225,
+      "releaseDate": "2025-12-16",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 70
     },
     {
       "rank": 19,
@@ -446,7 +446,7 @@
       "variant": "Ideogram 4.0",
       "creator": "Ideogram",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/ideogram_small.svg",
-      "score": 1220,
+      "score": 1221,
       "releaseDate": "2026-06-03",
       "priceInput": null,
       "priceOutput": null,
@@ -648,6 +648,18 @@
     },
     {
       "rank": 17,
+      "name": "Agnes-Video-2.5",
+      "variant": "Agnes-Video-2.5",
+      "creator": "Sapiens AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/sapiens.svg",
+      "score": 1081,
+      "releaseDate": "2026-08-22",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 1.5
+    },
+    {
+      "rank": 18,
       "name": "Vidu Q3 Pro",
       "variant": "Vidu Q3 Pro",
       "creator": "Vidu",
@@ -659,7 +671,7 @@
       "priceValue": 9.6
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "PixVerse V6",
       "variant": "PixVerse V6",
       "creator": "PixVerse",
@@ -671,7 +683,7 @@
       "priceValue": 6.9
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "grok-imagine-video",
       "variant": "grok-imagine-video",
       "creator": "SpaceXAI",
@@ -681,18 +693,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 4.2
-    },
-    {
-      "rank": 20,
-      "name": "LTX-2.5 Fast",
-      "variant": "LTX-2.5 Fast",
-      "creator": "Lightricks",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
-      "score": 1061,
-      "releaseDate": "2026-08-11",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 7.8
     }
   ]
 }
