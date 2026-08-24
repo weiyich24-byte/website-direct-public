@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-24T03:18:49.213Z",
+  "fetchedAt": "2026-08-24T05:04:37.926Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -688,7 +688,7 @@
       "variant": "LTX-2.5 Pro",
       "creator": "Lightricks",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
-      "score": 1063,
+      "score": 1062,
       "releaseDate": "2026-08-11",
       "priceInput": null,
       "priceOutput": null,
