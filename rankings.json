@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-24T05:04:37.926Z",
+  "fetchedAt": "2026-08-24T05:56:03.010Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -374,7 +374,7 @@
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1234,
+      "score": 1235,
       "releaseDate": "2026-04-03",
       "priceInput": null,
       "priceOutput": null,
@@ -446,7 +446,7 @@
       "variant": "Ideogram 4.0",
       "creator": "Ideogram",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/ideogram_small.svg",
-      "score": 1220,
+      "score": 1219,
       "releaseDate": "2026-06-03",
       "priceInput": null,
       "priceOutput": null,
@@ -580,7 +580,7 @@
       "variant": "Kling 3.0 720p (Standard)",
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1098,
+      "score": 1099,
       "releaseDate": "2026-02-04",
       "priceInput": null,
       "priceOutput": null,
@@ -684,15 +684,15 @@
     },
     {
       "rank": 20,
-      "name": "LTX-2.5 Pro",
-      "variant": "LTX-2.5 Pro",
-      "creator": "Lightricks",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/lightricks_small.svg",
+      "name": "grok-imagine-video",
+      "variant": "grok-imagine-video",
+      "creator": "SpaceXAI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
       "score": 1062,
-      "releaseDate": "2026-08-11",
+      "releaseDate": "2026-01-27",
       "priceInput": null,
       "priceOutput": null,
-      "priceValue": 10.2
+      "priceValue": 4.2
     }
   ]
 }
