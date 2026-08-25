@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-25T09:02:20.289Z",
+  "fetchedAt": "2026-08-25T16:58:21.224Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -226,6 +226,18 @@
     },
     {
       "rank": 2,
+      "name": "MAI-Image-2.6-Preview",
+      "variant": "MAI-Image-2.6-Preview",
+      "creator": "Microsoft AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
+      "score": 1353,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": null
+    },
+    {
+      "rank": 3,
       "name": "Reve 2.1",
       "variant": "Reve 2.1",
       "creator": "Reve",
@@ -237,7 +249,7 @@
       "priceValue": 200
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
@@ -249,31 +261,31 @@
       "priceValue": 67
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "GPT Image 1.5 (high)",
       "variant": "GPT Image 1.5 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1310,
+      "score": 1311,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 133
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "MAI-Image-2.5",
       "variant": "MAI-Image-2.5",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1303,
+      "score": 1304,
       "releaseDate": "2026-06-02",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 48.128
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "variant": "Nano Banana Pro (Gemini 3 Pro Image)",
       "creator": "Google",
@@ -285,7 +297,7 @@
       "priceValue": 134
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "MAI-Image-2.5-Pro",
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
@@ -297,31 +309,31 @@
       "priceValue": 108.544
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1288,
+      "score": 1289,
       "releaseDate": "2026-06-30",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 33.6
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Qwen-Image-3.0-Pro",
       "variant": "Qwen-Image-3.0-Pro",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1281,
+      "score": 1282,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 43
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Seedream 5.0 Pro",
       "variant": "Seedream 5.0 Pro",
       "creator": "Bytedance",
@@ -333,7 +345,7 @@
       "priceValue": 90
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Riverflow 2.0",
       "variant": "Riverflow 2.0",
       "creator": "Sourceful",
@@ -345,19 +357,19 @@
       "priceValue": 150
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Qwen-Image-3.0",
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1271,
+      "score": 1272,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
@@ -369,7 +381,7 @@
       "priceValue": 75
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "grok-imagine-image-quality",
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
@@ -381,19 +393,19 @@
       "priceValue": 50
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1229,
+      "score": 1230,
       "releaseDate": "2026-06-02",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 19.968
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "HiDream-O1-Image-1.5",
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
@@ -405,7 +417,7 @@
       "priceValue": 80
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "FLUX.2 [max]",
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
@@ -417,7 +429,7 @@
       "priceValue": 70
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -429,25 +441,13 @@
       "priceValue": 30
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "FLUX.2 [flex]",
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
       "score": 1223,
       "releaseDate": "2025-11-25",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 60
-    },
-    {
-      "rank": 20,
-      "name": "Ideogram 4.0",
-      "variant": "Ideogram 4.0",
-      "creator": "Ideogram",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/ideogram_small.svg",
-      "score": 1222,
-      "releaseDate": "2026-06-03",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 60
@@ -460,7 +460,7 @@
       "variant": "Wan 3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1240,
+      "score": 1241,
       "releaseDate": "2026-08-19",
       "priceInput": null,
       "priceOutput": null,
@@ -484,7 +484,7 @@
       "variant": "MiniMax H3",
       "creator": "MiniMax",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/minimax_small.svg",
-      "score": 1227,
+      "score": 1225,
       "releaseDate": "2026-07-30",
       "priceInput": null,
       "priceOutput": null,
@@ -496,7 +496,7 @@
       "variant": "Dreamina Seedance 2.0 720p",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1221,
+      "score": 1220,
       "releaseDate": "2026-03-18",
       "priceInput": null,
       "priceOutput": null,
@@ -508,7 +508,7 @@
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1157,
+      "score": 1156,
       "releaseDate": "2026-06-12",
       "priceInput": null,
       "priceOutput": null,
@@ -544,7 +544,7 @@
       "variant": "Wan 2.7",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1106,
+      "score": 1107,
       "releaseDate": "2026-04-25",
       "priceInput": null,
       "priceOutput": null,
@@ -568,7 +568,7 @@
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
-      "score": 1100,
+      "score": 1099,
       "releaseDate": "2026-03-18",
       "priceInput": null,
       "priceOutput": null,
@@ -588,30 +588,6 @@
     },
     {
       "rank": 12,
-      "name": "Veo 3.1",
-      "variant": "Veo 3.1",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1090,
-      "releaseDate": "2026-01-30",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 24
-    },
-    {
-      "rank": 13,
-      "name": "Kling 3.0 Omni 720p (Standard)",
-      "variant": "Kling 3.0 Omni 720p (Standard)",
-      "creator": "KlingAI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1089,
-      "releaseDate": "2026-02-04",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 13.44
-    },
-    {
-      "rank": 14,
       "name": "Veo 3.1 Lite",
       "variant": "Veo 3.1 Lite",
       "creator": "Google",
@@ -623,7 +599,19 @@
       "priceValue": 4.8
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "name": "Veo 3.1",
+      "variant": "Veo 3.1",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
+      "score": 1088,
+      "releaseDate": "2026-01-30",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 24
+    },
+    {
+      "rank": 14,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
@@ -635,12 +623,24 @@
       "priceValue": 16.8
     },
     {
+      "rank": 15,
+      "name": "Kling 3.0 Omni 720p (Standard)",
+      "variant": "Kling 3.0 Omni 720p (Standard)",
+      "creator": "KlingAI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
+      "score": 1088,
+      "releaseDate": "2026-02-04",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 13.44
+    },
+    {
       "rank": 16,
       "name": "Veo 3.1 Fast",
       "variant": "Veo 3.1 Fast",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1086,
+      "score": 1085,
       "releaseDate": "2026-01-30",
       "priceInput": null,
       "priceOutput": null,
