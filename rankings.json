@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-25T01:54:50.763Z",
+  "fetchedAt": "2026-08-25T03:14:30.024Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -406,18 +406,6 @@
     },
     {
       "rank": 17,
-      "name": "FLUX.2 [max]",
-      "variant": "FLUX.2 [max]",
-      "creator": "Black Forest Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1226,
-      "releaseDate": "2025-12-16",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 70
-    },
-    {
-      "rank": 18,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -427,6 +415,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
+    },
+    {
+      "rank": 18,
+      "name": "FLUX.2 [max]",
+      "variant": "FLUX.2 [max]",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
+      "score": 1226,
+      "releaseDate": "2025-12-16",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 70
     },
     {
       "rank": 19,
