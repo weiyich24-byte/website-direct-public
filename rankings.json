@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-26T05:52:12.422Z",
+  "fetchedAt": "2026-08-26T09:05:33.656Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -230,7 +230,7 @@
       "variant": "MAI-Image-2.6-Preview",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1351,
+      "score": 1350,
       "releaseDate": "2026-08-10",
       "priceInput": null,
       "priceOutput": null,
@@ -242,7 +242,7 @@
       "variant": "Reve 2.1",
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1322,
+      "score": 1321,
       "releaseDate": "2026-07-09",
       "priceInput": null,
       "priceOutput": null,
@@ -290,7 +290,7 @@
       "variant": "Nano Banana Pro (Gemini 3 Pro Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1298,
+      "score": 1297,
       "releaseDate": "2025-11-20",
       "priceInput": null,
       "priceOutput": null,
@@ -418,18 +418,6 @@
     },
     {
       "rank": 18,
-      "name": "Seedream 4.0",
-      "variant": "Seedream 4.0",
-      "creator": "ByteDance Seed",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1227,
-      "releaseDate": "2025-09-08",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 30
-    },
-    {
-      "rank": 19,
       "name": "FLUX.2 [max]",
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
@@ -439,6 +427,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 70
+    },
+    {
+      "rank": 19,
+      "name": "Seedream 4.0",
+      "variant": "Seedream 4.0",
+      "creator": "ByteDance Seed",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
+      "score": 1226,
+      "releaseDate": "2025-09-08",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 30
     },
     {
       "rank": 20,
@@ -664,7 +664,7 @@
       "variant": "Vidu Q3 Pro",
       "creator": "Vidu",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/vidu_small.svg",
-      "score": 1075,
+      "score": 1076,
       "releaseDate": "2026-01-30",
       "priceInput": null,
       "priceOutput": null,
@@ -688,7 +688,7 @@
       "variant": "grok-imagine-video",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1062,
+      "score": 1063,
       "releaseDate": "2026-01-27",
       "priceInput": null,
       "priceOutput": null,
