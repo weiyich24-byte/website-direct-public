@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-26T11:48:05.657Z",
+  "fetchedAt": "2026-08-26T15:55:53.282Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -92,6 +92,16 @@
     },
     {
       "rank": 9,
+      "name": "GLM-5.3-Flash",
+      "variant": "GLM-5.3-Flash",
+      "creator": "Z AI",
+      "score": 57.5,
+      "releaseDate": "2026-08-26",
+      "priceInput": 0.15,
+      "priceOutput": 0.5
+    },
+    {
+      "rank": 10,
       "name": "Muse Spark 1.2",
       "variant": "Muse Spark 1.2 (xhigh)",
       "creator": "Meta",
@@ -101,7 +111,7 @@
       "priceOutput": 4.25
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
@@ -111,7 +121,7 @@
       "priceOutput": 12
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Gemini 3.7 Flash",
       "variant": "Gemini 3.7 Flash (high)",
       "creator": "Google",
@@ -121,7 +131,7 @@
       "priceOutput": 3.75
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Grok 4.5",
       "variant": "Grok 4.5 (high)",
       "creator": "SpaceXAI",
@@ -131,7 +141,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Claude Sonnet 5",
       "variant": "Claude Sonnet 5 (max)",
       "creator": "Anthropic",
@@ -141,7 +151,7 @@
       "priceOutput": 10
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "DeepSeek V4 Pro 0813",
       "variant": "DeepSeek V4 Pro 0813 (max)",
       "creator": "DeepSeek",
@@ -151,7 +161,7 @@
       "priceOutput": 3.96
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "GLM-5.2",
       "variant": "GLM-5.2 (max)",
       "creator": "Z AI",
@@ -161,7 +171,7 @@
       "priceOutput": 4.4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "GPT-5.6 Luna",
       "variant": "GPT-5.6 Luna (max)",
       "creator": "OpenAI",
@@ -171,7 +181,7 @@
       "priceOutput": 1.2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Qwen3.8 27B",
       "variant": "Qwen3.8 27B (xhigh)",
       "creator": "Alibaba",
@@ -181,7 +191,7 @@
       "priceOutput": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "DeepSeek V4 Flash 0731",
       "variant": "DeepSeek V4 Flash 0731 (max)",
       "creator": "DeepSeek",
@@ -191,7 +201,7 @@
       "priceOutput": 1.32
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Gemini 3.6 Flash",
       "variant": "Gemini 3.6 Flash",
       "creator": "Google",
@@ -199,16 +209,6 @@
       "releaseDate": "2026-07-21",
       "priceInput": 0.75,
       "priceOutput": 3.75
-    },
-    {
-      "rank": 20,
-      "name": "DeepSeek V4 Flash Vision",
-      "variant": "DeepSeek V4 Flash Vision (max)",
-      "creator": "DeepSeek",
-      "score": 51.5,
-      "releaseDate": "2026-08-21",
-      "priceInput": 0.44,
-      "priceOutput": 1.32
     }
   ],
   "image": [
@@ -230,7 +230,7 @@
       "variant": "MAI-Image-2.6-Preview",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1349,
+      "score": 1350,
       "releaseDate": "2026-08-10",
       "priceInput": null,
       "priceOutput": null,
@@ -374,7 +374,7 @@
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1237,
+      "score": 1238,
       "releaseDate": "2026-04-22",
       "priceInput": null,
       "priceOutput": null,
@@ -422,7 +422,7 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1226,
+      "score": 1227,
       "releaseDate": "2025-12-16",
       "priceInput": null,
       "priceOutput": null,
@@ -540,18 +540,6 @@
     },
     {
       "rank": 8,
-      "name": "Kling 3.0 1080p (Pro)",
-      "variant": "Kling 3.0 1080p (Pro)",
-      "creator": "KlingAI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1107,
-      "releaseDate": "2026-02-04",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 20.16
-    },
-    {
-      "rank": 9,
       "name": "Wan 2.7",
       "variant": "Wan 2.7",
       "creator": "Alibaba",
@@ -561,6 +549,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9
+    },
+    {
+      "rank": 9,
+      "name": "Kling 3.0 1080p (Pro)",
+      "variant": "Kling 3.0 1080p (Pro)",
+      "creator": "KlingAI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
+      "score": 1107,
+      "releaseDate": "2026-02-04",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 20.16
     },
     {
       "rank": 10,
@@ -580,7 +580,7 @@
       "variant": "Kling 3.0 720p (Standard)",
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1099,
+      "score": 1100,
       "releaseDate": "2026-02-04",
       "priceInput": null,
       "priceOutput": null,
@@ -592,7 +592,7 @@
       "variant": "Veo 3.1",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1089,
+      "score": 1090,
       "releaseDate": "2026-01-30",
       "priceInput": null,
       "priceOutput": null,
@@ -600,18 +600,6 @@
     },
     {
       "rank": 13,
-      "name": "Veo 3.1 Lite",
-      "variant": "Veo 3.1 Lite",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1089,
-      "releaseDate": "2026-03-31",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 4.8
-    },
-    {
-      "rank": 14,
       "name": "Kling 3.0 Omni 720p (Standard)",
       "variant": "Kling 3.0 Omni 720p (Standard)",
       "creator": "KlingAI",
@@ -623,12 +611,24 @@
       "priceValue": 13.44
     },
     {
+      "rank": 14,
+      "name": "Veo 3.1 Lite",
+      "variant": "Veo 3.1 Lite",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
+      "score": 1089,
+      "releaseDate": "2026-03-31",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 4.8
+    },
+    {
       "rank": 15,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1088,
+      "score": 1089,
       "releaseDate": "2026-02-04",
       "priceInput": null,
       "priceOutput": null,
@@ -688,7 +688,7 @@
       "variant": "grok-imagine-video",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1062,
+      "score": 1063,
       "releaseDate": "2026-01-27",
       "priceInput": null,
       "priceOutput": null,
