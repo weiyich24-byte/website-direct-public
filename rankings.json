@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-26T18:05:46.301Z",
+  "fetchedAt": "2026-08-26T20:05:44.920Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -238,18 +238,6 @@
     },
     {
       "rank": 3,
-      "name": "Reve 2.1",
-      "variant": "Reve 2.1",
-      "creator": "Reve",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1321,
-      "releaseDate": "2026-07-09",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 200
-    },
-    {
-      "rank": 4,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
@@ -259,6 +247,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 67
+    },
+    {
+      "rank": 4,
+      "name": "Reve 2.1",
+      "variant": "Reve 2.1",
+      "creator": "Reve",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
+      "score": 1321,
+      "releaseDate": "2026-07-09",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 200
     },
     {
       "rank": 5,
@@ -326,7 +326,7 @@
       "variant": "Qwen-Image-3.0-Pro",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1283,
+      "score": 1282,
       "releaseDate": "2026-07-21",
       "priceInput": null,
       "priceOutput": null,
@@ -394,18 +394,6 @@
     },
     {
       "rank": 16,
-      "name": "MAI-Image-2.5-Flash",
-      "variant": "MAI-Image-2.5-Flash",
-      "creator": "Microsoft AI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1229,
-      "releaseDate": "2026-06-02",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 19.968
-    },
-    {
-      "rank": 17,
       "name": "HiDream-O1-Image-1.5",
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
@@ -415,6 +403,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 80
+    },
+    {
+      "rank": 17,
+      "name": "MAI-Image-2.5-Flash",
+      "variant": "MAI-Image-2.5-Flash",
+      "creator": "Microsoft AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
+      "score": 1228,
+      "releaseDate": "2026-06-02",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 19.968
     },
     {
       "rank": 18,
@@ -580,7 +580,7 @@
       "variant": "Kling 3.0 720p (Standard)",
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1100,
+      "score": 1099,
       "releaseDate": "2026-02-04",
       "priceInput": null,
       "priceOutput": null,
@@ -592,7 +592,7 @@
       "variant": "Veo 3.1",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1090,
+      "score": 1089,
       "releaseDate": "2026-01-30",
       "priceInput": null,
       "priceOutput": null,
