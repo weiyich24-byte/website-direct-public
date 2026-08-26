@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-26T02:00:48.054Z",
+  "fetchedAt": "2026-08-26T03:27:33.353Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1371,
+      "score": 1370,
       "releaseDate": "2026-04-21",
       "priceInput": null,
       "priceOutput": null,
@@ -374,7 +374,7 @@
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1238,
+      "score": 1237,
       "releaseDate": "2026-04-22",
       "priceInput": null,
       "priceOutput": null,
