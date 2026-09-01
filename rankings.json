@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-08-31T23:53:25.592Z",
+  "fetchedAt": "2026-09-01T05:16:17.447Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -219,7 +219,7 @@
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
       "score": 1370,
-      "releaseDate": "2026-04-21",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 211
@@ -230,8 +230,8 @@
       "variant": "MAI-Image-2.6-Preview",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1350,
-      "releaseDate": "2026-08-10",
+      "score": 1351,
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": null
@@ -243,7 +243,7 @@
       "creator": "Reve",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
       "score": 1324,
-      "releaseDate": "2026-07-09",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 200
@@ -254,8 +254,8 @@
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1320,
-      "releaseDate": "2026-02-26",
+      "score": 1321,
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 67
@@ -267,7 +267,7 @@
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
       "score": 1305,
-      "releaseDate": "2025-12-16",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 133
@@ -279,7 +279,7 @@
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
       "score": 1304,
-      "releaseDate": "2026-06-02",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 48.128
@@ -291,7 +291,7 @@
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
       "score": 1296,
-      "releaseDate": "2025-11-20",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 134
@@ -302,8 +302,8 @@
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1291,
-      "releaseDate": "2026-07-23",
+      "score": 1292,
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 108.544
@@ -314,8 +314,8 @@
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1287,
-      "releaseDate": "2026-06-30",
+      "score": 1288,
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 33.6
@@ -327,7 +327,7 @@
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
       "score": 1283,
-      "releaseDate": "2026-07-21",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 43
@@ -339,7 +339,7 @@
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
       "score": 1279,
-      "releaseDate": "2026-07-08",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 90
@@ -351,7 +351,7 @@
       "creator": "Sourceful",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sourceful_small.svg",
       "score": 1275,
-      "releaseDate": "2026-02-02",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 150
@@ -363,34 +363,34 @@
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
       "score": 1269,
-      "releaseDate": "2026-07-21",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
     },
     {
       "rank": 14,
-      "name": "Qwen Image 2.0 Pro (2026-04-22)",
-      "variant": "Qwen Image 2.0 Pro (2026-04-22)",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1235,
-      "releaseDate": "2026-04-22",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 75
-    },
-    {
-      "rank": 15,
       "name": "grok-imagine-image-quality",
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1234,
-      "releaseDate": "2026-04-03",
+      "score": 1235,
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 50
+    },
+    {
+      "rank": 15,
+      "name": "Qwen Image 2.0 Pro (2026-04-22)",
+      "variant": "Qwen Image 2.0 Pro (2026-04-22)",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1234,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 75
     },
     {
       "rank": 16,
@@ -398,8 +398,8 @@
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1228,
-      "releaseDate": "2026-06-02",
+      "score": 1229,
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 19.968
@@ -411,7 +411,7 @@
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
       "score": 1227,
-      "releaseDate": "2026-06-04",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 80
@@ -422,8 +422,8 @@
       "variant": "FLUX.2 [max]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1226,
-      "releaseDate": "2025-12-16",
+      "score": 1225,
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 70
@@ -435,7 +435,7 @@
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
       "score": 1223,
-      "releaseDate": "2025-09-08",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
@@ -447,7 +447,7 @@
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
       "score": 1221,
-      "releaseDate": "2025-11-25",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 60
@@ -461,7 +461,7 @@
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
       "score": 1242,
-      "releaseDate": "2026-08-19",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 12
@@ -473,7 +473,7 @@
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
       "score": 1237,
-      "releaseDate": "2026-05-19",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 6
@@ -485,7 +485,7 @@
       "creator": "Fal",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/fal_small.svg",
       "score": 1235,
-      "releaseDate": "2026-08-26",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 2.4
@@ -497,7 +497,7 @@
       "creator": "MiniMax",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/minimax_small.svg",
       "score": 1227,
-      "releaseDate": "2026-07-30",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 7.8
@@ -509,7 +509,7 @@
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
       "score": 1221,
-      "releaseDate": "2026-03-18",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9.07
@@ -521,7 +521,7 @@
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
       "score": 1157,
-      "releaseDate": "2026-06-12",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9
@@ -533,7 +533,7 @@
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
       "score": 1145,
-      "releaseDate": "2026-06-22",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9.9
@@ -545,7 +545,7 @@
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
       "score": 1121,
-      "releaseDate": "2026-04-07",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 13.2
@@ -557,7 +557,7 @@
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
       "score": 1108,
-      "releaseDate": "2026-02-04",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 20.16
@@ -569,7 +569,7 @@
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
       "score": 1106,
-      "releaseDate": "2026-04-25",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9
@@ -581,7 +581,7 @@
       "creator": "Skywork AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
       "score": 1103,
-      "releaseDate": "2026-03-18",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 21
@@ -593,7 +593,7 @@
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
       "score": 1100,
-      "releaseDate": "2026-02-04",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 15.12
@@ -605,7 +605,7 @@
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
       "score": 1092,
-      "releaseDate": "2026-01-30",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 24
@@ -617,7 +617,7 @@
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
       "score": 1089,
-      "releaseDate": "2026-03-31",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 4.8
@@ -629,7 +629,7 @@
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
       "score": 1089,
-      "releaseDate": "2026-02-04",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 13.44
@@ -641,7 +641,7 @@
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
       "score": 1089,
-      "releaseDate": "2026-02-04",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 16.8
@@ -653,7 +653,7 @@
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
       "score": 1086,
-      "releaseDate": "2026-01-30",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9
@@ -665,7 +665,7 @@
       "creator": "Sapiens AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sapiens.svg",
       "score": 1080,
-      "releaseDate": "2026-08-22",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 1.5
@@ -677,7 +677,7 @@
       "creator": "Vidu",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/vidu_small.svg",
       "score": 1076,
-      "releaseDate": "2026-01-30",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9.6
@@ -689,7 +689,7 @@
       "creator": "PixVerse",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/pixverse_small.svg",
       "score": 1074,
-      "releaseDate": "2026-03-23",
+      "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 6.9
