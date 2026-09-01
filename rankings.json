@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-01T10:13:53.828Z",
+  "fetchedAt": "2026-09-01T14:57:39.873Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -410,7 +410,7 @@
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/hidream_small.png",
-      "score": 1227,
+      "score": 1228,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -434,7 +434,7 @@
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1223,
+      "score": 1224,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -532,7 +532,7 @@
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1146,
+      "score": 1145,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
