@@ -7,11 +7,31 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-01T18:35:18.650Z",
+  "fetchedAt": "2026-09-01T21:49:39.937Z",
   "mode": "scheduled",
   "intelligence": [
     {
       "rank": 1,
+      "name": "Claude Fable 5.1 (max with fallback)",
+      "variant": "Claude Fable 5.1 (max with fallback)",
+      "creator": "Anthropic",
+      "score": 65.7,
+      "releaseDate": "2026-09-01",
+      "priceInput": 10,
+      "priceOutput": 50
+    },
+    {
+      "rank": 2,
+      "name": "Claude Fable 5.1 (xhigh with fallback)",
+      "variant": "Claude Fable 5.1 (xhigh with fallback)",
+      "creator": "Anthropic",
+      "score": 64.8,
+      "releaseDate": "2026-09-01",
+      "priceInput": 10,
+      "priceOutput": 50
+    },
+    {
+      "rank": 3,
       "name": "Claude Opus 5",
       "variant": "Claude Opus 5 (max)",
       "creator": "Anthropic",
@@ -21,7 +41,17 @@
       "priceOutput": 25
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "name": "Claude Fable 5.1 (high with fallback)",
+      "variant": "Claude Fable 5.1 (high with fallback)",
+      "creator": "Anthropic",
+      "score": 62.5,
+      "releaseDate": "2026-09-01",
+      "priceInput": 10,
+      "priceOutput": 50
+    },
+    {
+      "rank": 5,
       "name": "Claude Fable 5",
       "variant": "Claude Fable 5 (with fallback)",
       "creator": "Anthropic",
@@ -31,7 +61,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 3,
+      "rank": 6,
       "name": "GPT-5.6 Sol",
       "variant": "GPT-5.6 Sol (max)",
       "creator": "OpenAI",
@@ -41,7 +71,7 @@
       "priceOutput": 20
     },
     {
-      "rank": 4,
+      "rank": 7,
       "name": "Grok 4.6",
       "variant": "Grok 4.6 (high)",
       "creator": "SpaceXAI",
@@ -51,7 +81,17 @@
       "priceOutput": 6
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "name": "Claude Fable 5.1 (medium with fallback)",
+      "variant": "Claude Fable 5.1 (medium with fallback)",
+      "creator": "Anthropic",
+      "score": 60.5,
+      "releaseDate": "2026-09-01",
+      "priceInput": 10,
+      "priceOutput": 50
+    },
+    {
+      "rank": 9,
       "name": "Kimi K3",
       "variant": "Kimi K3 (max)",
       "creator": "Kimi",
@@ -61,7 +101,7 @@
       "priceOutput": 15
     },
     {
-      "rank": 6,
+      "rank": 10,
       "name": "GLM-5.3",
       "variant": "GLM-5.3 (max)",
       "creator": "Z AI",
@@ -71,7 +111,17 @@
       "priceOutput": 4.4
     },
     {
-      "rank": 7,
+      "rank": 11,
+      "name": "Claude Fable 5.1 (low with fallback)",
+      "variant": "Claude Fable 5.1 (low with fallback)",
+      "creator": "Anthropic",
+      "score": 58.1,
+      "releaseDate": "2026-09-01",
+      "priceInput": 10,
+      "priceOutput": 50
+    },
+    {
+      "rank": 12,
       "name": "Qwen3.8 Max",
       "variant": "Qwen3.8 Max",
       "creator": "Alibaba",
@@ -81,7 +131,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 8,
+      "rank": 13,
       "name": "Qwen3.8 2.4T A95B",
       "variant": "Qwen3.8 2.4T A95B",
       "creator": "Alibaba",
@@ -91,7 +141,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 9,
+      "rank": 14,
       "name": "GLM-5.3-Flash",
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
@@ -101,7 +151,7 @@
       "priceOutput": 0.5
     },
     {
-      "rank": 10,
+      "rank": 15,
       "name": "Muse Spark 1.2",
       "variant": "Muse Spark 1.2 (xhigh)",
       "creator": "Meta",
@@ -111,7 +161,7 @@
       "priceOutput": 4.25
     },
     {
-      "rank": 11,
+      "rank": 16,
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
@@ -121,7 +171,7 @@
       "priceOutput": 12
     },
     {
-      "rank": 12,
+      "rank": 17,
       "name": "Gemini 3.7 Flash",
       "variant": "Gemini 3.7 Flash (high)",
       "creator": "Google",
@@ -131,7 +181,7 @@
       "priceOutput": 3.75
     },
     {
-      "rank": 13,
+      "rank": 18,
       "name": "Qwen3.8-Flash-Next",
       "variant": "Qwen3.8-Flash-Next",
       "creator": "Alibaba",
@@ -141,7 +191,7 @@
       "priceOutput": 0.47
     },
     {
-      "rank": 14,
+      "rank": 19,
       "name": "Grok 4.5",
       "variant": "Grok 4.5 (high)",
       "creator": "SpaceXAI",
@@ -151,7 +201,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 15,
+      "rank": 20,
       "name": "Claude Sonnet 5",
       "variant": "Claude Sonnet 5 (max)",
       "creator": "Anthropic",
@@ -159,56 +209,6 @@
       "releaseDate": "2026-06-30",
       "priceInput": 2,
       "priceOutput": 10
-    },
-    {
-      "rank": 16,
-      "name": "DeepSeek V4 Pro 0813",
-      "variant": "DeepSeek V4 Pro 0813 (max)",
-      "creator": "DeepSeek",
-      "score": 53.2,
-      "releaseDate": "2026-08-13",
-      "priceInput": 1.32,
-      "priceOutput": 3.96
-    },
-    {
-      "rank": 17,
-      "name": "GLM-5.2",
-      "variant": "GLM-5.2 (max)",
-      "creator": "Z AI",
-      "score": 52.6,
-      "releaseDate": "2026-06-16",
-      "priceInput": 1.4,
-      "priceOutput": 4.4
-    },
-    {
-      "rank": 18,
-      "name": "GPT-5.6 Luna",
-      "variant": "GPT-5.6 Luna (max)",
-      "creator": "OpenAI",
-      "score": 52.3,
-      "releaseDate": "2026-07-09",
-      "priceInput": 0.2,
-      "priceOutput": 1.2
-    },
-    {
-      "rank": 19,
-      "name": "Qwen3.8 27B",
-      "variant": "Qwen3.8 27B (xhigh)",
-      "creator": "Alibaba",
-      "score": 52,
-      "releaseDate": "2026-08-14",
-      "priceInput": 0.5,
-      "priceOutput": 3
-    },
-    {
-      "rank": 20,
-      "name": "DeepSeek V4 Flash 0731",
-      "variant": "DeepSeek V4 Flash 0731 (max)",
-      "creator": "DeepSeek",
-      "score": 51.8,
-      "releaseDate": "2026-07-31",
-      "priceInput": 0.44,
-      "priceOutput": 1.32
     }
   ],
   "image": [
@@ -532,7 +532,7 @@
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1145,
+      "score": 1146,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
