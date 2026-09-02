@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-02T00:18:07.691Z",
+  "fetchedAt": "2026-09-02T05:52:58.307Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -230,7 +230,7 @@
       "variant": "MAI-Image-2.6-Preview",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1349,
+      "score": 1350,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -362,7 +362,7 @@
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1270,
+      "score": 1269,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -456,27 +456,27 @@
   "video": [
     {
       "rank": 1,
-      "name": "Wan 3.0",
-      "variant": "Wan 3.0",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1242,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 12
-    },
-    {
-      "rank": 2,
       "name": "Gemini Omni Flash",
       "variant": "Gemini Omni Flash",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1237,
+      "score": 1238,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 6
+    },
+    {
+      "rank": 2,
+      "name": "Wan 3.0",
+      "variant": "Wan 3.0",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1237,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 12
     },
     {
       "rank": 3,
