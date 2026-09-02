@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-02T11:25:00.421Z",
+  "fetchedAt": "2026-09-02T16:38:56.814Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -112,6 +112,16 @@
     },
     {
       "rank": 11,
+      "name": "Gemini 3.8 Flash",
+      "variant": "Gemini 3.8 Flash (high)",
+      "creator": "Google",
+      "score": 58.7,
+      "releaseDate": "2026-09-02",
+      "priceInput": 0.75,
+      "priceOutput": 3.75
+    },
+    {
+      "rank": 12,
       "name": "Claude Fable 5.1 (low with fallback)",
       "variant": "Claude Fable 5.1 (low with fallback)",
       "creator": "Anthropic",
@@ -121,7 +131,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Qwen3.8 Max",
       "variant": "Qwen3.8 Max",
       "creator": "Alibaba",
@@ -131,7 +141,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Qwen3.8 2.4T A95B",
       "variant": "Qwen3.8 2.4T A95B",
       "creator": "Alibaba",
@@ -141,7 +151,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "GLM-5.3-Flash",
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
@@ -151,7 +161,7 @@
       "priceOutput": 0.5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Muse Spark 1.2",
       "variant": "Muse Spark 1.2 (xhigh)",
       "creator": "Meta",
@@ -161,7 +171,7 @@
       "priceOutput": 4.25
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
@@ -171,7 +181,7 @@
       "priceOutput": 12
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Gemini 3.7 Flash",
       "variant": "Gemini 3.7 Flash (high)",
       "creator": "Google",
@@ -181,7 +191,7 @@
       "priceOutput": 3.75
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Qwen3.8-Flash-Next",
       "variant": "Qwen3.8-Flash-Next",
       "creator": "Alibaba",
@@ -191,7 +201,7 @@
       "priceOutput": 0.47
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Grok 4.5",
       "variant": "Grok 4.5 (high)",
       "creator": "SpaceXAI",
@@ -199,16 +209,6 @@
       "releaseDate": "2026-07-08",
       "priceInput": 2,
       "priceOutput": 6
-    },
-    {
-      "rank": 20,
-      "name": "Claude Sonnet 5",
-      "variant": "Claude Sonnet 5 (max)",
-      "creator": "Anthropic",
-      "score": 55.3,
-      "releaseDate": "2026-06-30",
-      "priceInput": 2,
-      "priceOutput": 10
     }
   ],
   "image": [
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1370,
+      "score": 1371,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -254,7 +254,7 @@
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1320,
+      "score": 1321,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -266,7 +266,7 @@
       "variant": "GPT Image 1.5 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1304,
+      "score": 1305,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -350,7 +350,7 @@
       "variant": "Riverflow 2.0",
       "creator": "Sourceful",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sourceful_small.svg",
-      "score": 1275,
+      "score": 1276,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -362,7 +362,7 @@
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1269,
+      "score": 1270,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -386,7 +386,7 @@
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1234,
+      "score": 1235,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
