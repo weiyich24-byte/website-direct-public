@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-04T19:39:19.265Z",
+  "fetchedAt": "2026-09-04T22:23:13.704Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -15,7 +15,7 @@
       "name": "Claude Fable 5.1 (max with fallback)",
       "variant": "Claude Fable 5.1 (max with fallback)",
       "creator": "Anthropic",
-      "score": 65.7,
+      "score": 64.7,
       "releaseDate": "2026-09-01",
       "priceInput": 10,
       "priceOutput": 50
@@ -25,7 +25,7 @@
       "name": "Claude Fable 5.1 (xhigh with fallback)",
       "variant": "Claude Fable 5.1 (xhigh with fallback)",
       "creator": "Anthropic",
-      "score": 64.8,
+      "score": 63.9,
       "releaseDate": "2026-09-01",
       "priceInput": 10,
       "priceOutput": 50
@@ -35,87 +35,87 @@
       "name": "Claude Opus 5",
       "variant": "Claude Opus 5 (max)",
       "creator": "Anthropic",
-      "score": 63.1,
+      "score": 61.9,
       "releaseDate": "2026-07-24",
       "priceInput": 5,
       "priceOutput": 25
     },
     {
       "rank": 4,
+      "name": "Muse Spark 1.3",
+      "variant": "Muse Spark 1.3 (max)",
+      "creator": "Meta",
+      "score": 61.8,
+      "releaseDate": "2026-09-02",
+      "priceInput": 1.25,
+      "priceOutput": 4.25
+    },
+    {
+      "rank": 5,
       "name": "Claude Fable 5.1 (high with fallback)",
       "variant": "Claude Fable 5.1 (high with fallback)",
       "creator": "Anthropic",
-      "score": 62.5,
+      "score": 61.6,
       "releaseDate": "2026-09-01",
       "priceInput": 10,
       "priceOutput": 50
     },
     {
-      "rank": 5,
-      "name": "Muse Spark 1.3",
-      "variant": "Muse Spark 1.3 (max)",
-      "creator": "Meta",
-      "score": 62.1,
-      "releaseDate": "2026-09-02",
-      "priceInput": null,
-      "priceOutput": null
-    },
-    {
       "rank": 6,
-      "name": "Claude Fable 5",
-      "variant": "Claude Fable 5 (with fallback)",
-      "creator": "Anthropic",
-      "score": 62.1,
-      "releaseDate": "2026-06-09",
-      "priceInput": 10,
-      "priceOutput": 50
-    },
-    {
-      "rank": 7,
       "name": "GPT-6 Astra",
       "variant": "GPT-6 Astra (max)",
       "creator": "OpenAI",
-      "score": 61.2,
+      "score": 60.8,
       "releaseDate": "2026-09-03",
       "priceInput": 10,
       "priceOutput": 50
     },
     {
-      "rank": 8,
-      "name": "GPT-5.6 Sol",
-      "variant": "GPT-5.6 Sol (max)",
-      "creator": "OpenAI",
-      "score": 60.9,
-      "releaseDate": "2026-07-09",
-      "priceInput": 4,
-      "priceOutput": 20
+      "rank": 7,
+      "name": "Claude Fable 5",
+      "variant": "Claude Fable 5 (with fallback)",
+      "creator": "Anthropic",
+      "score": 60.3,
+      "releaseDate": "2026-06-09",
+      "priceInput": 10,
+      "priceOutput": 50
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Grok 4.6",
       "variant": "Grok 4.6 (high)",
       "creator": "SpaceXAI",
-      "score": 60.9,
+      "score": 59.9,
       "releaseDate": "2026-08-12",
       "priceInput": 2,
       "priceOutput": 6
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Claude Fable 5.1 (medium with fallback)",
       "variant": "Claude Fable 5.1 (medium with fallback)",
       "creator": "Anthropic",
-      "score": 60.5,
+      "score": 59.6,
       "releaseDate": "2026-09-01",
       "priceInput": 10,
       "priceOutput": 50
+    },
+    {
+      "rank": 10,
+      "name": "GPT-5.6 Sol",
+      "variant": "GPT-5.6 Sol (max)",
+      "creator": "OpenAI",
+      "score": 59.3,
+      "releaseDate": "2026-07-09",
+      "priceInput": 4,
+      "priceOutput": 20
     },
     {
       "rank": 11,
       "name": "Kimi K3",
       "variant": "Kimi K3 (max)",
       "creator": "Kimi",
-      "score": 59.7,
+      "score": 58.9,
       "releaseDate": "2026-07-16",
       "priceInput": 3,
       "priceOutput": 15
@@ -125,7 +125,7 @@
       "name": "GLM-5.3",
       "variant": "GLM-5.3 (max)",
       "creator": "Z AI",
-      "score": 59.5,
+      "score": 58.6,
       "releaseDate": "2026-08-18",
       "priceInput": 1.4,
       "priceOutput": 4.4
@@ -135,7 +135,7 @@
       "name": "Gemini 3.8 Flash",
       "variant": "Gemini 3.8 Flash (high)",
       "creator": "Google",
-      "score": 58.7,
+      "score": 57.8,
       "releaseDate": "2026-09-02",
       "priceInput": 0.75,
       "priceOutput": 3.75
@@ -145,7 +145,7 @@
       "name": "Claude Fable 5.1 (low with fallback)",
       "variant": "Claude Fable 5.1 (low with fallback)",
       "creator": "Anthropic",
-      "score": 58.1,
+      "score": 57.3,
       "releaseDate": "2026-09-01",
       "priceInput": 10,
       "priceOutput": 50
@@ -155,7 +155,7 @@
       "name": "Qwen3.8 Max",
       "variant": "Qwen3.8 Max",
       "creator": "Alibaba",
-      "score": 58.1,
+      "score": 57,
       "releaseDate": "2026-08-03",
       "priceInput": 2,
       "priceOutput": 6
@@ -165,7 +165,7 @@
       "name": "Qwen3.8 2.4T A95B",
       "variant": "Qwen3.8 2.4T A95B",
       "creator": "Alibaba",
-      "score": 57.7,
+      "score": 56.8,
       "releaseDate": "2026-08-12",
       "priceInput": 2,
       "priceOutput": 6
@@ -175,7 +175,7 @@
       "name": "GLM-5.3-Flash",
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
-      "score": 57.5,
+      "score": 56.5,
       "releaseDate": "2026-08-26",
       "priceInput": 0.15,
       "priceOutput": 0.5
@@ -185,7 +185,7 @@
       "name": "Muse Spark 1.2",
       "variant": "Muse Spark 1.2 (xhigh)",
       "creator": "Meta",
-      "score": 56.8,
+      "score": 55.7,
       "releaseDate": "2026-08-05",
       "priceInput": 1.25,
       "priceOutput": 4.25
@@ -195,7 +195,7 @@
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
-      "score": 56.6,
+      "score": 55.3,
       "releaseDate": "2026-07-09",
       "priceInput": 2,
       "priceOutput": 12
@@ -205,7 +205,7 @@
       "name": "Gemini 3.7 Flash",
       "variant": "Gemini 3.7 Flash (high)",
       "creator": "Google",
-      "score": 56,
+      "score": 55.1,
       "releaseDate": "2026-08-13",
       "priceInput": 0.75,
       "priceOutput": 3.75
@@ -218,7 +218,7 @@
       "variant": "GPT Image 2 (high)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1371,
+      "score": 1370,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -266,7 +266,7 @@
       "variant": "Muse Image",
       "creator": "Meta",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/meta_small.svg",
-      "score": 1312,
+      "score": 1311,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -370,18 +370,6 @@
     },
     {
       "rank": 14,
-      "name": "Riverflow 2.0",
-      "variant": "Riverflow 2.0",
-      "creator": "Sourceful",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/sourceful_small.svg",
-      "score": 1276,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 150
-    },
-    {
-      "rank": 15,
       "name": "Qwen-Image-3.0",
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
@@ -393,7 +381,7 @@
       "priceValue": 30
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "grok-imagine-image-quality",
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
@@ -405,7 +393,7 @@
       "priceValue": 50
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
@@ -417,7 +405,7 @@
       "priceValue": 75
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
@@ -429,7 +417,7 @@
       "priceValue": 19.968
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "HiDream-O1-Image-1.5",
       "variant": "HiDream-O1-Image-1.5",
       "creator": "HiDream",
@@ -441,7 +429,7 @@
       "priceValue": 80
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -451,6 +439,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
+    },
+    {
+      "rank": 20,
+      "name": "FLUX.2 [max]",
+      "variant": "FLUX.2 [max]",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
+      "score": 1224,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 70
     }
   ],
   "video": [
@@ -508,7 +508,7 @@
       "variant": "Dreamina Seedance 2.0 720p",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1221,
+      "score": 1222,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
