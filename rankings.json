@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-05T10:40:53.965Z",
+  "fetchedAt": "2026-09-05T13:53:07.340Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -278,7 +278,7 @@
       "variant": "MAI-Image-2.5",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1108,
+      "score": 1107,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -446,7 +446,7 @@
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1025,
+      "score": 1026,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -628,7 +628,7 @@
       "variant": "Veo 3.1 Lite",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1089,
+      "score": 1090,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
