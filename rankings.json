@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-05T13:53:07.340Z",
+  "fetchedAt": "2026-09-05T16:51:01.940Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -326,7 +326,7 @@
       "variant": "Nano Banana Pro (Gemini 3 Pro Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1097,
+      "score": 1098,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -442,15 +442,15 @@
     },
     {
       "rank": 20,
-      "name": "FLUX.2 [flex]",
-      "variant": "FLUX.2 [flex]",
-      "creator": "Black Forest Labs",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1026,
+      "name": "Recraft V4.1 Utility",
+      "variant": "Recraft V4.1 Utility",
+      "creator": "Recraft",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/recraftai.png",
+      "score": 1025,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
-      "priceValue": 60
+      "priceValue": 35
     }
   ],
   "video": [
