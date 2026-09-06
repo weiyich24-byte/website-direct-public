@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-05T21:18:29.516Z",
+  "fetchedAt": "2026-09-06T04:45:41.891Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -456,27 +456,27 @@
   "video": [
     {
       "rank": 1,
-      "name": "Wan 3.0",
-      "variant": "Wan 3.0",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1238,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 12
-    },
-    {
-      "rank": 2,
       "name": "Gemini Omni Flash",
       "variant": "Gemini Omni Flash",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1238,
+      "score": 1239,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 6
+    },
+    {
+      "rank": 2,
+      "name": "Wan 3.0",
+      "variant": "Wan 3.0",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1239,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 12
     },
     {
       "rank": 3,
@@ -484,7 +484,7 @@
       "variant": "Minimax H3 Max (post-trained by fal)",
       "creator": "Fal",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/fal_small.svg",
-      "score": 1235,
+      "score": 1236,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -556,7 +556,7 @@
       "variant": "MAGI-2 Preview",
       "creator": "Sand.ai",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sandai.svg",
-      "score": 1111,
+      "score": 1114,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -616,7 +616,7 @@
       "variant": "Veo 3.1",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1091,
+      "score": 1092,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -640,7 +640,7 @@
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1090,
+      "score": 1089,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
