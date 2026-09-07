@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-07T20:37:03.769Z",
+  "fetchedAt": "2026-09-07T23:32:43.589Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -122,26 +122,16 @@
     },
     {
       "rank": 12,
-      "name": "Qwen3.8 Max",
-      "variant": "Qwen3.8 Max",
-      "creator": "Alibaba",
-      "score": 44.6,
-      "releaseDate": "2026-08-03",
-      "priceInput": 2,
-      "priceOutput": 6
-    },
-    {
-      "rank": 13,
       "name": "GLM-5.3",
       "variant": "GLM-5.3 (max)",
       "creator": "Z AI",
-      "score": 44.5,
+      "score": 44.9,
       "releaseDate": "2026-08-18",
       "priceInput": 1.4,
       "priceOutput": 4.4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Grok 4.6",
       "variant": "Grok 4.6 (high)",
       "creator": "SpaceXAI",
@@ -151,7 +141,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Kimi K3",
       "variant": "Kimi K3 (max)",
       "creator": "Kimi",
@@ -161,7 +151,7 @@
       "priceOutput": 15
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
@@ -171,7 +161,7 @@
       "priceOutput": 12
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Qwen3.8-Flash-Next",
       "variant": "Qwen3.8-Flash-Next",
       "creator": "Alibaba",
@@ -181,7 +171,7 @@
       "priceOutput": 0.47
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "GLM-5.3-Flash",
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
@@ -191,7 +181,7 @@
       "priceOutput": 0.5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Gemini 3.8 Flash",
       "variant": "Gemini 3.8 Flash (high)",
       "creator": "Google",
@@ -199,6 +189,16 @@
       "releaseDate": "2026-09-02",
       "priceInput": 0.75,
       "priceOutput": 3.75
+    },
+    {
+      "rank": 19,
+      "name": "Qwen3.8 Max",
+      "variant": "Qwen3.8 Max",
+      "creator": "Alibaba",
+      "score": 40.3,
+      "releaseDate": "2026-08-03",
+      "priceInput": 2,
+      "priceOutput": 6
     },
     {
       "rank": 20,
@@ -532,7 +532,7 @@
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1146,
+      "score": 1145,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
