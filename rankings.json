@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-08T18:44:35.334Z",
+  "fetchedAt": "2026-09-08T21:54:05.610Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -532,7 +532,7 @@
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1145,
+      "score": 1146,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
