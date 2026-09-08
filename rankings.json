@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-08T04:44:43.876Z",
+  "fetchedAt": "2026-09-08T09:46:20.120Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -460,7 +460,7 @@
       "variant": "Wan 3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1239,
+      "score": 1238,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -556,7 +556,7 @@
       "variant": "MAGI-2 Preview",
       "creator": "Sand.ai",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sandai.svg",
-      "score": 1114,
+      "score": 1113,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -636,18 +636,6 @@
     },
     {
       "rank": 16,
-      "name": "Veo 3.1 Lite",
-      "variant": "Veo 3.1 Lite",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1089,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 4.8
-    },
-    {
-      "rank": 17,
       "name": "Kling 3.0 Omni 720p (Standard)",
       "variant": "Kling 3.0 Omni 720p (Standard)",
       "creator": "KlingAI",
@@ -657,6 +645,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 13.44
+    },
+    {
+      "rank": 17,
+      "name": "Veo 3.1 Lite",
+      "variant": "Veo 3.1 Lite",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
+      "score": 1089,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 4.8
     },
     {
       "rank": 18,
