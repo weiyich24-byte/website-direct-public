@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-08T09:46:20.120Z",
+  "fetchedAt": "2026-09-08T14:36:14.579Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -456,18 +456,6 @@
   "video": [
     {
       "rank": 1,
-      "name": "Wan 3.0",
-      "variant": "Wan 3.0",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1238,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 12
-    },
-    {
-      "rank": 2,
       "name": "Gemini Omni Flash",
       "variant": "Gemini Omni Flash",
       "creator": "Google",
@@ -477,6 +465,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 6
+    },
+    {
+      "rank": 2,
+      "name": "Wan 3.0",
+      "variant": "Wan 3.0",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1237,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 12
     },
     {
       "rank": 3,
@@ -636,18 +636,6 @@
     },
     {
       "rank": 16,
-      "name": "Kling 3.0 Omni 720p (Standard)",
-      "variant": "Kling 3.0 Omni 720p (Standard)",
-      "creator": "KlingAI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
-      "score": 1089,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 13.44
-    },
-    {
-      "rank": 17,
       "name": "Veo 3.1 Lite",
       "variant": "Veo 3.1 Lite",
       "creator": "Google",
@@ -657,6 +645,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 4.8
+    },
+    {
+      "rank": 17,
+      "name": "Kling 3.0 Omni 720p (Standard)",
+      "variant": "Kling 3.0 Omni 720p (Standard)",
+      "creator": "KlingAI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/klingai_small.svg",
+      "score": 1089,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 13.44
     },
     {
       "rank": 18,
@@ -676,7 +676,7 @@
       "variant": "Agnes-Video-2.5",
       "creator": "Sapiens AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sapiens.svg",
-      "score": 1080,
+      "score": 1081,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
