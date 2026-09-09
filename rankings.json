@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-09T06:02:17.453Z",
+  "fetchedAt": "2026-09-09T11:30:22.767Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -16,7 +16,7 @@
       "variant": "Claude Fable 5.1 (max with fallback)",
       "creator": "Anthropic",
       "score": 53.4,
-      "releaseDate": "2026-09-01",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -26,7 +26,7 @@
       "variant": "Claude Fable 5.1 (xhigh with fallback)",
       "creator": "Anthropic",
       "score": 53.2,
-      "releaseDate": "2026-09-01",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -36,7 +36,7 @@
       "variant": "GPT-6 Astra (max)",
       "creator": "OpenAI",
       "score": 52.8,
-      "releaseDate": "2026-09-03",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -46,7 +46,7 @@
       "variant": "Claude Fable 5.1 (high with fallback)",
       "creator": "Anthropic",
       "score": 51.2,
-      "releaseDate": "2026-09-01",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -56,7 +56,7 @@
       "variant": "Claude Opus 5 (max)",
       "creator": "Anthropic",
       "score": 50.7,
-      "releaseDate": "2026-07-24",
+      "releaseDate": "",
       "priceInput": 5,
       "priceOutput": 25
     },
@@ -66,7 +66,7 @@
       "variant": "Claude Fable 5 (with fallback)",
       "creator": "Anthropic",
       "score": 49.7,
-      "releaseDate": "2026-06-09",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -76,7 +76,7 @@
       "variant": "Claude Fable 5.1 (medium with fallback)",
       "creator": "Anthropic",
       "score": 49.1,
-      "releaseDate": "2026-09-01",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -86,7 +86,7 @@
       "variant": "Muse Spark 1.3 (max)",
       "creator": "Meta",
       "score": 48.2,
-      "releaseDate": "2026-09-02",
+      "releaseDate": "",
       "priceInput": 1.25,
       "priceOutput": 4.25
     },
@@ -96,7 +96,7 @@
       "variant": "GPT-5.6 Sol (max)",
       "creator": "OpenAI",
       "score": 47.1,
-      "releaseDate": "2026-07-09",
+      "releaseDate": "",
       "priceInput": 4,
       "priceOutput": 20
     },
@@ -106,7 +106,7 @@
       "variant": "Claude Fable 5.1 (low with fallback)",
       "creator": "Anthropic",
       "score": 47,
-      "releaseDate": "2026-09-01",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -116,7 +116,7 @@
       "variant": "GPT-6 Astra (Non-reasoning)",
       "creator": "OpenAI",
       "score": 45.2,
-      "releaseDate": "2026-09-03",
+      "releaseDate": "",
       "priceInput": 10,
       "priceOutput": 50
     },
@@ -126,7 +126,7 @@
       "variant": "GLM-5.3 (max)",
       "creator": "Z AI",
       "score": 44.9,
-      "releaseDate": "2026-08-18",
+      "releaseDate": "",
       "priceInput": 1.4,
       "priceOutput": 4.4
     },
@@ -136,7 +136,7 @@
       "variant": "Grok 4.6 (high)",
       "creator": "SpaceXAI",
       "score": 44.4,
-      "releaseDate": "2026-08-12",
+      "releaseDate": "",
       "priceInput": 2,
       "priceOutput": 6
     },
@@ -146,7 +146,7 @@
       "variant": "Kimi K3 (max)",
       "creator": "Kimi",
       "score": 43.8,
-      "releaseDate": "2026-07-16",
+      "releaseDate": "",
       "priceInput": 3,
       "priceOutput": 15
     },
@@ -156,7 +156,7 @@
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
       "score": 42.3,
-      "releaseDate": "2026-07-09",
+      "releaseDate": "",
       "priceInput": 2,
       "priceOutput": 12
     },
@@ -166,7 +166,7 @@
       "variant": "Qwen3.8-Flash-Next",
       "creator": "Alibaba",
       "score": 42.2,
-      "releaseDate": "2026-08-26",
+      "releaseDate": "",
       "priceInput": 0.15,
       "priceOutput": 0.47
     },
@@ -176,7 +176,7 @@
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
       "score": 41.9,
-      "releaseDate": "2026-08-26",
+      "releaseDate": "",
       "priceInput": 0.15,
       "priceOutput": 0.5
     },
@@ -186,7 +186,7 @@
       "variant": "Gemini 3.8 Flash (high)",
       "creator": "Google",
       "score": 41.2,
-      "releaseDate": "2026-09-02",
+      "releaseDate": "",
       "priceInput": 0.75,
       "priceOutput": 3.75
     },
@@ -196,7 +196,7 @@
       "variant": "Qwen3.8 Max",
       "creator": "Alibaba",
       "score": 40.3,
-      "releaseDate": "2026-08-03",
+      "releaseDate": "",
       "priceInput": 2,
       "priceOutput": 6
     },
@@ -206,7 +206,7 @@
       "variant": "Qwen3.8 2.4T A95B",
       "creator": "Alibaba",
       "score": 40,
-      "releaseDate": "2026-08-12",
+      "releaseDate": "",
       "priceInput": 2,
       "priceOutput": 6
     }
@@ -456,6 +456,18 @@
   "video": [
     {
       "rank": 1,
+      "name": "Wan 3.0",
+      "variant": "Wan 3.0",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
+      "score": 1239,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 12
+    },
+    {
+      "rank": 2,
       "name": "Gemini Omni Flash",
       "variant": "Gemini Omni Flash",
       "creator": "Google",
@@ -465,18 +477,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 6
-    },
-    {
-      "rank": 2,
-      "name": "Wan 3.0",
-      "variant": "Wan 3.0",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1237,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 12
     },
     {
       "rank": 3,
@@ -556,7 +556,7 @@
       "variant": "MAGI-2 Preview",
       "creator": "Sand.ai",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sandai.svg",
-      "score": 1114,
+      "score": 1112,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -688,7 +688,7 @@
       "variant": "Vidu Q3 Pro",
       "creator": "Vidu",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/vidu_small.svg",
-      "score": 1075,
+      "score": 1076,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
