@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-12T10:53:05.539Z",
+  "fetchedAt": "2026-09-12T14:11:28.575Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -576,18 +576,6 @@
     },
     {
       "rank": 11,
-      "name": "SkyReels V4",
-      "variant": "SkyReels V4",
-      "creator": "Skywork AI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
-      "score": 1103,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 21
-    },
-    {
-      "rank": 12,
       "name": "Wan 2.7",
       "variant": "Wan 2.7",
       "creator": "Alibaba",
@@ -597,6 +585,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 9
+    },
+    {
+      "rank": 12,
+      "name": "SkyReels V4",
+      "variant": "SkyReels V4",
+      "creator": "Skywork AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
+      "score": 1103,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 21
     },
     {
       "rank": 13,
@@ -688,7 +688,7 @@
       "variant": "Veo 3.1 Fast",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1085,
+      "score": 1084,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
