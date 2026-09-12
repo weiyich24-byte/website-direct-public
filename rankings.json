@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-12T05:52:41.888Z",
+  "fetchedAt": "2026-09-12T10:53:05.539Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -484,7 +484,7 @@
       "variant": "Minimax H3 Max (post-trained by fal)",
       "creator": "Fal",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/fal_small.svg",
-      "score": 1230,
+      "score": 1231,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -496,7 +496,7 @@
       "variant": "MiniMax H3",
       "creator": "MiniMax",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/minimax_small.svg",
-      "score": 1224,
+      "score": 1225,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -672,27 +672,27 @@
     },
     {
       "rank": 19,
-      "name": "Veo 3.1 Fast",
-      "variant": "Veo 3.1 Fast",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1084,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 9
-    },
-    {
-      "rank": 20,
       "name": "Agnes-Video-2.5",
       "variant": "Agnes-Video-2.5",
       "creator": "Sapiens AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sapiens.svg",
-      "score": 1084,
+      "score": 1085,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 1.5
+    },
+    {
+      "rank": 20,
+      "name": "Veo 3.1 Fast",
+      "variant": "Veo 3.1 Fast",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
+      "score": 1085,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 9
     }
   ]
 }
