@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-12T22:21:29.604Z",
+  "fetchedAt": "2026-09-13T01:04:48.784Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -520,7 +520,7 @@
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1157,
+      "score": 1156,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
