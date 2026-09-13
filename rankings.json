@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-13T16:23:43.940Z",
+  "fetchedAt": "2026-09-13T19:29:53.885Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -460,7 +460,7 @@
       "variant": "Wan 3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1240,
+      "score": 1241,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -484,7 +484,7 @@
       "variant": "Minimax H3 Max (post-trained by fal)",
       "creator": "Fal",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/fal_small.svg",
-      "score": 1230,
+      "score": 1231,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -532,7 +532,7 @@
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1144,
+      "score": 1145,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
