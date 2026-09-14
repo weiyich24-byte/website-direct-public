@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-14T14:09:28.948Z",
+  "fetchedAt": "2026-09-14T19:25:38.718Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -580,7 +580,7 @@
       "variant": "Wan 2.7",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1104,
+      "score": 1105,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -592,7 +592,7 @@
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/skywork_small.svg",
-      "score": 1103,
+      "score": 1102,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -664,7 +664,7 @@
       "variant": "Agnes-Video-2.5",
       "creator": "Sapiens AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/sapiens.svg",
-      "score": 1087,
+      "score": 1088,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
