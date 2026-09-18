@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-18T11:22:51.958Z",
+  "fetchedAt": "2026-09-18T16:29:09.101Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -62,6 +62,16 @@
     },
     {
       "rank": 6,
+      "name": "Claude Fable 5",
+      "variant": "Claude Fable 5 (with fallback)",
+      "creator": "Anthropic",
+      "score": 49.7,
+      "releaseDate": "",
+      "priceInput": 10,
+      "priceOutput": 50
+    },
+    {
+      "rank": 7,
       "name": "Claude Fable 5.1 (medium with fallback)",
       "variant": "Claude Fable 5.1 (medium with fallback)",
       "creator": "Anthropic",
@@ -71,7 +81,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Muse Spark 1.3",
       "variant": "Muse Spark 1.3 (max)",
       "creator": "Meta",
@@ -81,7 +91,7 @@
       "priceOutput": 4.25
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "GPT-5.6 Sol",
       "variant": "GPT-5.6 Sol (max)",
       "creator": "OpenAI",
@@ -91,7 +101,7 @@
       "priceOutput": 20
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Claude Fable 5.1 (low with fallback)",
       "variant": "Claude Fable 5.1 (low with fallback)",
       "creator": "Anthropic",
@@ -101,7 +111,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Qwen3.8 Max (0902)",
       "variant": "Qwen3.8 Max (0902)",
       "creator": "Alibaba",
@@ -111,7 +121,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "GLM-5.3",
       "variant": "GLM-5.3 (max)",
       "creator": "Z AI",
@@ -121,7 +131,7 @@
       "priceOutput": 4.4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Grok 4.6",
       "variant": "Grok 4.6 (high)",
       "creator": "SpaceXAI",
@@ -131,7 +141,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Kimi K3",
       "variant": "Kimi K3 (max)",
       "creator": "Kimi",
@@ -141,7 +151,7 @@
       "priceOutput": 15
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
@@ -151,7 +161,7 @@
       "priceOutput": 12
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "GLM-5.3-Flash",
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
@@ -161,7 +171,7 @@
       "priceOutput": 0.5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Gemini 3.8 Flash",
       "variant": "Gemini 3.8 Flash (high)",
       "creator": "Google",
@@ -171,7 +181,17 @@
       "priceOutput": 3.75
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "name": "Qwen3.8 Max",
+      "variant": "Qwen3.8 Max",
+      "creator": "Alibaba",
+      "score": 40.3,
+      "releaseDate": "",
+      "priceInput": 2,
+      "priceOutput": 6
+    },
+    {
+      "rank": 19,
       "name": "Qwen3.8 2.4T A95B",
       "variant": "Qwen3.8 2.4T A95B",
       "creator": "Alibaba",
@@ -181,7 +201,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Qwen3.8-Flash-Next",
       "variant": "Qwen3.8-Flash-Next",
       "creator": "Alibaba",
@@ -189,26 +209,6 @@
       "releaseDate": "",
       "priceInput": 0.15,
       "priceOutput": 0.47
-    },
-    {
-      "rank": 19,
-      "name": "DeepSeek V4.1 Flash",
-      "variant": "DeepSeek V4.1 Flash (max)",
-      "creator": "DeepSeek",
-      "score": 39.5,
-      "releaseDate": "",
-      "priceInput": 0.3,
-      "priceOutput": 1.2
-    },
-    {
-      "rank": 20,
-      "name": "Claude Sonnet 5",
-      "variant": "Claude Sonnet 5 (max)",
-      "creator": "Anthropic",
-      "score": 38.4,
-      "releaseDate": "",
-      "priceInput": 2,
-      "priceOutput": 10
     }
   ],
   "image": [
@@ -230,7 +230,7 @@
       "variant": "GPT Image 2.5 Sunburst (max)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1183,
+      "score": 1182,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -290,7 +290,7 @@
       "variant": "Muse Image",
       "creator": "Meta",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/meta_small.svg",
-      "score": 1111,
+      "score": 1112,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -334,18 +334,6 @@
     },
     {
       "rank": 11,
-      "name": "MAI-Image-2.6-Flash",
-      "variant": "MAI-Image-2.6-Flash",
-      "creator": "Microsoft AI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1099,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 19.5
-    },
-    {
-      "rank": 12,
       "name": "MAI-Image-2.5-Pro",
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
@@ -357,12 +345,24 @@
       "priceValue": 108.544
     },
     {
+      "rank": 12,
+      "name": "MAI-Image-2.6-Flash",
+      "variant": "MAI-Image-2.6-Flash",
+      "creator": "Microsoft AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
+      "score": 1099,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 19.5
+    },
+    {
       "rank": 13,
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1092,
+      "score": 1091,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -446,7 +446,7 @@
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1027,
+      "score": 1025,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
