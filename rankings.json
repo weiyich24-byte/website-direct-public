@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-19T01:14:15.932Z",
+  "fetchedAt": "2026-09-19T05:59:26.373Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -142,6 +142,16 @@
     },
     {
       "rank": 14,
+      "name": "Step 5 Preview",
+      "variant": "Step 5 Preview",
+      "creator": "StepFun",
+      "score": 43.6,
+      "releaseDate": "",
+      "priceInput": 1,
+      "priceOutput": 2.7
+    },
+    {
+      "rank": 15,
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
@@ -151,7 +161,7 @@
       "priceOutput": 12
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "GLM-5.3-Flash",
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
@@ -161,7 +171,7 @@
       "priceOutput": 0.5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Gemini 3.8 Flash",
       "variant": "Gemini 3.8 Flash (high)",
       "creator": "Google",
@@ -171,7 +181,7 @@
       "priceOutput": 3.75
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Qwen3.8 2.4T A95B",
       "variant": "Qwen3.8 2.4T A95B",
       "creator": "Alibaba",
@@ -181,7 +191,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Qwen3.8-Flash-Next",
       "variant": "Qwen3.8-Flash-Next",
       "creator": "Alibaba",
@@ -191,7 +201,7 @@
       "priceOutput": 0.47
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "DeepSeek V4.1 Flash",
       "variant": "DeepSeek V4.1 Flash (max)",
       "creator": "DeepSeek",
@@ -199,16 +209,6 @@
       "releaseDate": "",
       "priceInput": 0.3,
       "priceOutput": 1.2
-    },
-    {
-      "rank": 20,
-      "name": "Claude Sonnet 5",
-      "variant": "Claude Sonnet 5 (max)",
-      "creator": "Anthropic",
-      "score": 38.4,
-      "releaseDate": "",
-      "priceInput": 2,
-      "priceOutput": 10
     }
   ],
   "image": [
@@ -302,7 +302,7 @@
       "variant": "Muse Image",
       "creator": "Meta",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/meta_small.svg",
-      "score": 1112,
+      "score": 1111,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -346,18 +346,6 @@
     },
     {
       "rank": 12,
-      "name": "MAI-Image-2.5-Pro",
-      "variant": "MAI-Image-2.5-Pro",
-      "creator": "Microsoft AI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1099,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 108.544
-    },
-    {
-      "rank": 13,
       "name": "MAI-Image-2.6-Flash",
       "variant": "MAI-Image-2.6-Flash",
       "creator": "Microsoft AI",
@@ -367,6 +355,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 19.5
+    },
+    {
+      "rank": 13,
+      "name": "MAI-Image-2.5-Pro",
+      "variant": "MAI-Image-2.5-Pro",
+      "creator": "Microsoft AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
+      "score": 1099,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 108.544
     },
     {
       "rank": 14,
