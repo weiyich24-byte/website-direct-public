@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-21T19:34:14.675Z",
+  "fetchedAt": "2026-09-21T23:20:14.857Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -112,6 +112,16 @@
     },
     {
       "rank": 11,
+      "name": "MiMo-V2.6-Pro",
+      "variant": "MiMo-V2.6-Pro",
+      "creator": "Xiaomi",
+      "score": 46.3,
+      "releaseDate": "",
+      "priceInput": 0.435,
+      "priceOutput": 0.87
+    },
+    {
+      "rank": 12,
       "name": "Qwen3.8 Max (0902)",
       "variant": "Qwen3.8 Max (0902)",
       "creator": "Alibaba",
@@ -121,7 +131,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "GLM-5.3",
       "variant": "GLM-5.3 (max)",
       "creator": "Z AI",
@@ -131,7 +141,7 @@
       "priceOutput": 4.4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Grok 4.6",
       "variant": "Grok 4.6 (high)",
       "creator": "SpaceXAI",
@@ -141,7 +151,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Step 5 Preview",
       "variant": "Step 5 Preview",
       "creator": "StepFun",
@@ -151,7 +161,7 @@
       "priceOutput": 2.7
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Kimi K3",
       "variant": "Kimi K3 (max)",
       "creator": "Kimi",
@@ -161,7 +171,7 @@
       "priceOutput": 15
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "GPT-5.6 Terra",
       "variant": "GPT-5.6 Terra (max)",
       "creator": "OpenAI",
@@ -171,7 +181,7 @@
       "priceOutput": 12
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "GLM-5.3-Flash",
       "variant": "GLM-5.3-Flash",
       "creator": "Z AI",
@@ -181,7 +191,7 @@
       "priceOutput": 0.5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Gemini 3.8 Flash",
       "variant": "Gemini 3.8 Flash (high)",
       "creator": "Google",
@@ -191,7 +201,7 @@
       "priceOutput": 3.75
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Qwen3.8 2.4T A95B",
       "variant": "Qwen3.8 2.4T A95B",
       "creator": "Alibaba",
@@ -199,16 +209,6 @@
       "releaseDate": "",
       "priceInput": 2,
       "priceOutput": 6
-    },
-    {
-      "rank": 20,
-      "name": "Qwen3.8-Flash-Next",
-      "variant": "Qwen3.8-Flash-Next",
-      "creator": "Alibaba",
-      "score": 39.8,
-      "releaseDate": "",
-      "priceInput": 0.15,
-      "priceOutput": 0.47
     }
   ],
   "image": [
