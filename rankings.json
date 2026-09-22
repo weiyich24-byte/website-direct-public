@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-21T23:20:14.857Z",
+  "fetchedAt": "2026-09-22T05:04:55.426Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -214,11 +214,11 @@
   "image": [
     {
       "rank": 1,
-      "name": "GPT Image 2.5 Flare (max)",
-      "variant": "GPT Image 2.5 Flare (max)",
+      "name": "GPT Image 2.5 Sunburst (max)",
+      "variant": "GPT Image 2.5 Sunburst (max)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1188,
+      "score": 1197,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -226,11 +226,11 @@
     },
     {
       "rank": 2,
-      "name": "GPT Image 2.5 Sunburst (max)",
-      "variant": "GPT Image 2.5 Sunburst (max)",
+      "name": "GPT Image 2.5 Flare (max)",
+      "variant": "GPT Image 2.5 Flare (max)",
       "creator": "OpenAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/openai_small.svg",
-      "score": 1182,
+      "score": 1190,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -274,18 +274,6 @@
     },
     {
       "rank": 6,
-      "name": "Reve 2.1",
-      "variant": "Reve 2.1",
-      "creator": "Reve",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/reve_small.svg",
-      "score": 1129,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 200
-    },
-    {
-      "rank": 7,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
       "variant": "Nano Banana 2 (Gemini 3.1 Flash Image)",
       "creator": "Google",
@@ -297,16 +285,28 @@
       "priceValue": 67
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Muse Image",
       "variant": "Muse Image",
       "creator": "Meta",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/meta_small.svg",
-      "score": 1111,
+      "score": 1112,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 10
+    },
+    {
+      "rank": 8,
+      "name": "MAI-Image-2.5",
+      "variant": "MAI-Image-2.5",
+      "creator": "Microsoft AI",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
+      "score": 1103,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 48.128
     },
     {
       "rank": 9,
@@ -322,18 +322,6 @@
     },
     {
       "rank": 10,
-      "name": "MAI-Image-2.5",
-      "variant": "MAI-Image-2.5",
-      "creator": "Microsoft AI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1102,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 48.128
-    },
-    {
-      "rank": 11,
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "variant": "Nano Banana Pro (Gemini 3 Pro Image)",
       "creator": "Google",
@@ -345,19 +333,19 @@
       "priceValue": 134
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "MAI-Image-2.6-Flash",
       "variant": "MAI-Image-2.6-Flash",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1099,
+      "score": 1100,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 19.5
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "MAI-Image-2.5-Pro",
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
@@ -369,19 +357,19 @@
       "priceValue": 108.544
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/google_small.svg",
-      "score": 1091,
+      "score": 1092,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 33.6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Qwen-Image-3.0-Pro",
       "variant": "Qwen-Image-3.0-Pro",
       "creator": "Alibaba",
@@ -393,7 +381,7 @@
       "priceValue": 40
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Seedream 5.0 Pro",
       "variant": "Seedream 5.0 Pro",
       "creator": "ByteDance Seed",
@@ -405,19 +393,19 @@
       "priceValue": 90
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Qwen-Image-3.0",
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1076,
+      "score": 1077,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "grok-imagine-image-quality",
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
@@ -429,7 +417,7 @@
       "priceValue": 50
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "MAI-Image-2.5-Flash",
       "variant": "MAI-Image-2.5-Flash",
       "creator": "Microsoft AI",
@@ -441,16 +429,28 @@
       "priceValue": 19.968
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "variant": "Qwen Image 2.0 Pro (2026-04-22)",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1029,
+      "score": 1030,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 75
+    },
+    {
+      "rank": 20,
+      "name": "Seedream 4.0",
+      "variant": "Seedream 4.0",
+      "creator": "ByteDance Seed",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
+      "score": 1026,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 30
     }
   ],
   "video": [
