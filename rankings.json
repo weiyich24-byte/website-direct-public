@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-23T11:44:56.462Z",
+  "fetchedAt": "2026-09-23T17:09:03.564Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -92,6 +92,16 @@
     },
     {
       "rank": 9,
+      "name": "Claude Opus 5",
+      "variant": "Claude Opus 5 (max)",
+      "creator": "Anthropic",
+      "score": 50.8,
+      "releaseDate": "",
+      "priceInput": 5,
+      "priceOutput": 25
+    },
+    {
+      "rank": 10,
       "name": "Claude Fable 5.1 (medium with fallback)",
       "variant": "Claude Fable 5.1 (medium with fallback)",
       "creator": "Anthropic",
@@ -101,7 +111,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Muse Spark 1.3",
       "variant": "Muse Spark 1.3 (max)",
       "creator": "Meta",
@@ -111,7 +121,7 @@
       "priceOutput": 4.25
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "GPT-6 Sol",
       "variant": "GPT-6 Sol (max)",
       "creator": "OpenAI",
@@ -121,7 +131,17 @@
       "priceOutput": 10
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "name": "GPT-5.6 Sol",
+      "variant": "GPT-5.6 Sol (max)",
+      "creator": "OpenAI",
+      "score": 47,
+      "releaseDate": "",
+      "priceInput": 4,
+      "priceOutput": 20
+    },
+    {
+      "rank": 14,
       "name": "Claude Fable 5.1 (low with fallback)",
       "variant": "Claude Fable 5.1 (low with fallback)",
       "creator": "Anthropic",
@@ -131,7 +151,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "Grok 4.7",
       "variant": "Grok 4.7 (xhigh)",
       "creator": "SpaceXAI",
@@ -141,7 +161,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "MiMo-V2.6-Pro",
       "variant": "MiMo-V2.6-Pro",
       "creator": "Xiaomi",
@@ -151,7 +171,7 @@
       "priceOutput": 0.87
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "Qwen3.8 Max (0902)",
       "variant": "Qwen3.8 Max (0902)",
       "creator": "Alibaba",
@@ -161,7 +181,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 16,
+      "rank": 18,
       "name": "GLM-5.3",
       "variant": "GLM-5.3 (max)",
       "creator": "Z AI",
@@ -171,7 +191,7 @@
       "priceOutput": 4.4
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "Grok 4.6",
       "variant": "Grok 4.6 (high)",
       "creator": "SpaceXAI",
@@ -181,7 +201,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Step 5 Preview",
       "variant": "Step 5 Preview",
       "creator": "StepFun",
@@ -189,26 +209,6 @@
       "releaseDate": "",
       "priceInput": 1,
       "priceOutput": 2.7
-    },
-    {
-      "rank": 19,
-      "name": "Kimi K3",
-      "variant": "Kimi K3 (max)",
-      "creator": "Kimi",
-      "score": 43.6,
-      "releaseDate": "",
-      "priceInput": 3,
-      "priceOutput": 15
-    },
-    {
-      "rank": 20,
-      "name": "Claude Opus 5.5 (low with fallback)",
-      "variant": "Claude Opus 5.5 (low with fallback)",
-      "creator": "Anthropic",
-      "score": 42.3,
-      "releaseDate": "",
-      "priceInput": 4,
-      "priceOutput": 20
     }
   ],
   "image": [
@@ -254,7 +254,7 @@
       "variant": "Grok Imagine Image 2.0",
       "creator": "SpaceXAI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/spacexai.svg",
-      "score": 1152,
+      "score": 1153,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -266,7 +266,7 @@
       "variant": "MAI-Image-2.6",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1147,
+      "score": 1148,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -350,7 +350,7 @@
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai_small.svg",
-      "score": 1099,
+      "score": 1100,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -386,7 +386,7 @@
       "variant": "Seedream 5.0 Pro",
       "creator": "ByteDance Seed",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/bytedance_small.svg",
-      "score": 1079,
+      "score": 1078,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -398,7 +398,7 @@
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba_small.svg",
-      "score": 1078,
+      "score": 1077,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
@@ -446,7 +446,7 @@
       "variant": "FLUX.2 [flex]",
       "creator": "Black Forest Labs",
       "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs_small.svg",
-      "score": 1026,
+      "score": 1027,
       "releaseDate": "",
       "priceInput": null,
       "priceOutput": null,
