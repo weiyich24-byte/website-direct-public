@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-25T07:54:38.814Z",
+  "fetchedAt": "2026-09-25T18:40:54.889Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -430,6 +430,18 @@
     },
     {
       "rank": 19,
+      "name": "Qwen-Image-2.1",
+      "variant": "Qwen-Image-2.1",
+      "creator": "Alibaba",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba.svg",
+      "score": 1033,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": null
+    },
+    {
+      "rank": 20,
       "name": "Seedream 4.0",
       "variant": "Seedream 4.0",
       "creator": "ByteDance Seed",
@@ -439,18 +451,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 30
-    },
-    {
-      "rank": 20,
-      "name": "Qwen Image 2.0 Pro (2026-04-22)",
-      "variant": "Qwen Image 2.0 Pro (2026-04-22)",
-      "creator": "Alibaba",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/alibaba.svg",
-      "score": 1029,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 75
     }
   ],
   "video": [
