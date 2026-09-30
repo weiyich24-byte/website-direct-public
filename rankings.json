@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-30T19:25:57.734Z",
+  "fetchedAt": "2026-09-30T23:54:57.868Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -82,6 +82,16 @@
     },
     {
       "rank": 8,
+      "name": "Gemini 4 Argon",
+      "variant": "Gemini 4 Argon (high)",
+      "creator": "Google",
+      "score": 52.6,
+      "releaseDate": "",
+      "priceInput": 2,
+      "priceOutput": 10
+    },
+    {
+      "rank": 9,
       "name": "Claude Sonnet 5.5 (xhigh with fallback)",
       "variant": "Claude Sonnet 5.5 (xhigh with fallback)",
       "creator": "Anthropic",
@@ -91,7 +101,7 @@
       "priceOutput": 10
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "GPT-6.1 Sol",
       "variant": "GPT-6.1 Sol (max)",
       "creator": "OpenAI",
@@ -101,7 +111,7 @@
       "priceOutput": 10
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Claude Opus 5.5 (medium with fallback)",
       "variant": "Claude Opus 5.5 (medium with fallback)",
       "creator": "Anthropic",
@@ -111,7 +121,7 @@
       "priceOutput": 20
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Claude Fable 5.1 (high with fallback)",
       "variant": "Claude Fable 5.1 (high with fallback)",
       "creator": "Anthropic",
@@ -121,7 +131,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Claude Fable 5.1 (medium with fallback)",
       "variant": "Claude Fable 5.1 (medium with fallback)",
       "creator": "Anthropic",
@@ -131,7 +141,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Muse Spark 1.3",
       "variant": "Muse Spark 1.3 (max)",
       "creator": "Meta",
@@ -141,7 +151,7 @@
       "priceOutput": 4.25
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "GPT-6 Sol",
       "variant": "GPT-6 Sol (max)",
       "creator": "OpenAI",
@@ -151,7 +161,7 @@
       "priceOutput": 10
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Claude Fable 5.1 (low with fallback)",
       "variant": "Claude Fable 5.1 (low with fallback)",
       "creator": "Anthropic",
@@ -161,7 +171,7 @@
       "priceOutput": 50
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Claude Sonnet 5.5 (high with fallback)",
       "variant": "Claude Sonnet 5.5 (high with fallback)",
       "creator": "Anthropic",
@@ -171,7 +181,7 @@
       "priceOutput": 10
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Grok 4.7",
       "variant": "Grok 4.7 (xhigh)",
       "creator": "SpaceXAI",
@@ -181,7 +191,7 @@
       "priceOutput": 6
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "MiMo-V2.6-Pro",
       "variant": "MiMo-V2.6-Pro",
       "creator": "Xiaomi",
@@ -191,7 +201,7 @@
       "priceOutput": 0.87
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Qwen3.8 Max (0902)",
       "variant": "Qwen3.8 Max (0902)",
       "creator": "Alibaba",
@@ -199,16 +209,6 @@
       "releaseDate": "",
       "priceInput": 2,
       "priceOutput": 6
-    },
-    {
-      "rank": 20,
-      "name": "GLM-5.3",
-      "variant": "GLM-5.3 (max)",
-      "creator": "Z AI",
-      "score": 44.8,
-      "releaseDate": "",
-      "priceInput": 1.4,
-      "priceOutput": 4.4
     }
   ],
   "image": [
@@ -540,18 +540,6 @@
     },
     {
       "rank": 8,
-      "name": "Minimax H3 Max (Based on MiniMax H3)",
-      "variant": "Minimax H3 Max (Based on MiniMax H3)",
-      "creator": "Fal",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/fal.svg",
-      "score": 1111,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 9.6
-    },
-    {
-      "rank": 9,
       "name": "SkyReels V4",
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
@@ -563,7 +551,7 @@
       "priceValue": 21
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Agnes-Video-2.5",
       "variant": "Agnes-Video-2.5",
       "creator": "Sapiens AI",
@@ -575,7 +563,7 @@
       "priceValue": 2.4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "HappyHorse-1.1",
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
@@ -587,7 +575,7 @@
       "priceValue": 10.8
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "grok-imagine-video-1.5",
       "variant": "grok-imagine-video-1.5",
       "creator": "SpaceXAI",
@@ -599,7 +587,7 @@
       "priceValue": 15
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Wan2.7-260612",
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
@@ -611,7 +599,7 @@
       "priceValue": 9
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "HappyHorse-1.0",
       "variant": "HappyHorse-1.0",
       "creator": "Alibaba-ATH",
@@ -623,7 +611,7 @@
       "priceValue": 14.4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
@@ -635,7 +623,7 @@
       "priceValue": 8.4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Kling 3.0 1080p (Pro)",
       "variant": "Kling 3.0 1080p (Pro)",
       "creator": "KlingAI",
@@ -647,7 +635,7 @@
       "priceValue": 10.08
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "PixVerse V6",
       "variant": "PixVerse V6",
       "creator": "PixVerse",
@@ -659,7 +647,7 @@
       "priceValue": 6.9
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Veo 3.1",
       "variant": "Veo 3.1",
       "creator": "Google",
@@ -671,7 +659,7 @@
       "priceValue": 24
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "MAGI-2 Preview (0912)",
       "variant": "MAGI-2 Preview (0912)",
       "creator": "Sand.ai",
@@ -683,7 +671,7 @@
       "priceValue": null
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Veo 3.1 Fast",
       "variant": "Veo 3.1 Fast",
       "creator": "Google",
@@ -693,6 +681,18 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 7.2
+    },
+    {
+      "rank": 20,
+      "name": "Veo 3.1 Lite",
+      "variant": "Veo 3.1 Lite",
+      "creator": "Google",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/google.svg",
+      "score": 951,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 4.8
     }
   ]
 }
