@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-09-30T13:49:34.586Z",
+  "fetchedAt": "2026-09-30T19:25:57.734Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -468,6 +468,18 @@
     },
     {
       "rank": 2,
+      "name": "Utopai X (based on MiniMax H3)",
+      "variant": "Utopai X (based on MiniMax H3)",
+      "creator": "Utopai Studios",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/utopai.svg",
+      "score": 1150,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": null
+    },
+    {
+      "rank": 3,
       "name": "Dreamina Seedance 2.5",
       "variant": "Dreamina Seedance 2.5",
       "creator": "ByteDance Seed",
@@ -479,7 +491,7 @@
       "priceValue": 34.12
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "MiniMax H3 (768p)",
       "variant": "MiniMax H3 (768p)",
       "creator": "MiniMax",
@@ -491,7 +503,7 @@
       "priceValue": 4.8
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "FLUX 3",
       "variant": "FLUX 3",
       "creator": "Black Forest Labs",
@@ -503,7 +515,7 @@
       "priceValue": 17.4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Gemini Omni Flash 1.1",
       "variant": "Gemini Omni Flash 1.1",
       "creator": "Google",
@@ -515,7 +527,7 @@
       "priceValue": 9.12
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Dreamina Seedance 2.0",
       "variant": "Dreamina Seedance 2.0",
       "creator": "ByteDance Seed",
@@ -527,7 +539,7 @@
       "priceValue": 22.45
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Minimax H3 Max (Based on MiniMax H3)",
       "variant": "Minimax H3 Max (Based on MiniMax H3)",
       "creator": "Fal",
@@ -539,7 +551,7 @@
       "priceValue": 9.6
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "SkyReels V4",
       "variant": "SkyReels V4",
       "creator": "Skywork AI",
@@ -551,7 +563,7 @@
       "priceValue": 21
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Agnes-Video-2.5",
       "variant": "Agnes-Video-2.5",
       "creator": "Sapiens AI",
@@ -563,7 +575,7 @@
       "priceValue": 2.4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "HappyHorse-1.1",
       "variant": "HappyHorse-1.1",
       "creator": "Alibaba-ATH",
@@ -575,7 +587,7 @@
       "priceValue": 10.8
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "grok-imagine-video-1.5",
       "variant": "grok-imagine-video-1.5",
       "creator": "SpaceXAI",
@@ -587,7 +599,7 @@
       "priceValue": 15
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Wan2.7-260612",
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
@@ -599,7 +611,7 @@
       "priceValue": 9
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "HappyHorse-1.0",
       "variant": "HappyHorse-1.0",
       "creator": "Alibaba-ATH",
@@ -611,7 +623,7 @@
       "priceValue": 14.4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
@@ -623,7 +635,7 @@
       "priceValue": 8.4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Kling 3.0 1080p (Pro)",
       "variant": "Kling 3.0 1080p (Pro)",
       "creator": "KlingAI",
@@ -635,7 +647,7 @@
       "priceValue": 10.08
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "PixVerse V6",
       "variant": "PixVerse V6",
       "creator": "PixVerse",
@@ -647,7 +659,7 @@
       "priceValue": 6.9
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Veo 3.1",
       "variant": "Veo 3.1",
       "creator": "Google",
@@ -659,7 +671,7 @@
       "priceValue": 24
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "MAGI-2 Preview (0912)",
       "variant": "MAGI-2 Preview (0912)",
       "creator": "Sand.ai",
@@ -671,7 +683,7 @@
       "priceValue": null
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Veo 3.1 Fast",
       "variant": "Veo 3.1 Fast",
       "creator": "Google",
@@ -681,18 +693,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 7.2
-    },
-    {
-      "rank": 20,
-      "name": "Veo 3.1 Lite",
-      "variant": "Veo 3.1 Lite",
-      "creator": "Google",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/google.svg",
-      "score": 951,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 4.8
     }
   ]
 }
