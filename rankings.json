@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-10-08T09:04:36.416Z",
+  "fetchedAt": "2026-10-09T21:43:36.792Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -298,6 +298,18 @@
     },
     {
       "rank": 8,
+      "name": "FLUX 3 Image",
+      "variant": "FLUX 3 Image",
+      "creator": "Black Forest Labs",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/blackforestlabs.svg",
+      "score": 1117,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": 48
+    },
+    {
+      "rank": 9,
       "name": "Muse Image",
       "variant": "Muse Image",
       "creator": "Meta",
@@ -309,7 +321,7 @@
       "priceValue": 10
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "GPT Image 1.5 (high)",
       "variant": "GPT Image 1.5 (high)",
       "creator": "OpenAI",
@@ -321,7 +333,7 @@
       "priceValue": 133
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "MAI-Image-2.6-Flash",
       "variant": "MAI-Image-2.6-Flash",
       "creator": "Microsoft AI",
@@ -333,7 +345,7 @@
       "priceValue": 19.5
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "MAI-Image-2.5",
       "variant": "MAI-Image-2.5",
       "creator": "Microsoft AI",
@@ -345,7 +357,7 @@
       "priceValue": 48.128
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "variant": "Nano Banana Pro (Gemini 3 Pro Image)",
       "creator": "Google",
@@ -357,7 +369,7 @@
       "priceValue": 134
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "MAI-Image-2.5-Pro",
       "variant": "MAI-Image-2.5-Pro",
       "creator": "Microsoft AI",
@@ -369,7 +381,7 @@
       "priceValue": 108.544
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "variant": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "creator": "Google",
@@ -381,7 +393,7 @@
       "priceValue": 33.6
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Qwen-Image-3.0-Pro",
       "variant": "Qwen-Image-3.0-Pro",
       "creator": "Alibaba",
@@ -393,7 +405,7 @@
       "priceValue": 40
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Seedream 5.0 Pro",
       "variant": "Seedream 5.0 Pro",
       "creator": "ByteDance Seed",
@@ -405,7 +417,7 @@
       "priceValue": 90
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Qwen-Image-3.0",
       "variant": "Qwen-Image-3.0",
       "creator": "Alibaba",
@@ -417,7 +429,7 @@
       "priceValue": 30
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "grok-imagine-image-quality",
       "variant": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
@@ -429,7 +441,7 @@
       "priceValue": 50
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Qwen-Image-2.1",
       "variant": "Qwen-Image-2.1",
       "creator": "Alibaba",
@@ -439,18 +451,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": null
-    },
-    {
-      "rank": 20,
-      "name": "MAI-Image-2.5-Flash",
-      "variant": "MAI-Image-2.5-Flash",
-      "creator": "Microsoft AI",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/microsoft-ai.svg",
-      "score": 1032,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": 19.968
     }
   ],
   "video": [
