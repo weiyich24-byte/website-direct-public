@@ -7,7 +7,7 @@
     "image": "https://artificialanalysis.ai/image/leaderboard/text-to-image/",
     "video": "https://artificialanalysis.ai/video/leaderboard/text-to-video"
   },
-  "fetchedAt": "2026-10-13T17:37:48.536Z",
+  "fetchedAt": "2026-10-14T07:43:10.021Z",
   "mode": "scheduled",
   "intelligence": [
     {
@@ -600,6 +600,18 @@
     },
     {
       "rank": 13,
+      "name": "MAGI-2 Preview",
+      "variant": "MAGI-2 Preview",
+      "creator": "Sand.ai",
+      "creatorLogo": "https://artificialanalysis.ai/img/logos/sandai.svg",
+      "score": 1035,
+      "releaseDate": "",
+      "priceInput": null,
+      "priceOutput": null,
+      "priceValue": null
+    },
+    {
+      "rank": 14,
       "name": "Wan2.7-260612",
       "variant": "Wan2.7-260612",
       "creator": "Alibaba",
@@ -611,7 +623,7 @@
       "priceValue": 9
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "HappyHorse-1.0",
       "variant": "HappyHorse-1.0",
       "creator": "Alibaba-ATH",
@@ -623,7 +635,7 @@
       "priceValue": 14.4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "variant": "Kling 3.0 Omni 1080p (Pro)",
       "creator": "KlingAI",
@@ -635,7 +647,7 @@
       "priceValue": 8.4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Kling 3.0 1080p (Pro)",
       "variant": "Kling 3.0 1080p (Pro)",
       "creator": "KlingAI",
@@ -647,7 +659,7 @@
       "priceValue": 10.08
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Grok Imagine Video 1.5 Lite",
       "variant": "Grok Imagine Video 1.5 Lite",
       "creator": "SpaceXAI",
@@ -659,7 +671,7 @@
       "priceValue": 8.4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "PixVerse V6",
       "variant": "PixVerse V6",
       "creator": "PixVerse",
@@ -671,7 +683,7 @@
       "priceValue": 6.9
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Veo 3.1",
       "variant": "Veo 3.1",
       "creator": "Google",
@@ -681,18 +693,6 @@
       "priceInput": null,
       "priceOutput": null,
       "priceValue": 24
-    },
-    {
-      "rank": 20,
-      "name": "MAGI-2 Preview (0912)",
-      "variant": "MAGI-2 Preview (0912)",
-      "creator": "Sand.ai",
-      "creatorLogo": "https://artificialanalysis.ai/img/logos/sandai.svg",
-      "score": 962,
-      "releaseDate": "",
-      "priceInput": null,
-      "priceOutput": null,
-      "priceValue": null
     }
   ]
 }
